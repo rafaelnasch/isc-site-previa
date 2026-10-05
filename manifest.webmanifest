@@ -1,0 +1,17 @@
+{
+  "name": "Instituto ISC · Health & Aesthetics",
+  "short_name": "Instituto ISC",
+  "description": "Clínica de saúde e estética no Ecoville, em Curitiba. A consulta de avaliação é sempre o primeiro passo.",
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "start_url": "/isc-site-previa/",
+  "scope": "/isc-site-previa/",
+  "display": "browser",
+  "background_color": "#121314",
+  "theme_color": "#121314",
+  "icons": [
+    { "src": "/isc-site-previa/assets/img/isc-favicon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "/isc-site-previa/assets/img/isc-favicon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "/isc-site-previa/assets/img/isc-favicon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

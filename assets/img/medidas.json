@@ -1,0 +1,268 @@
+{
+ "instituto-cortina-dourada": [
+  {
+   "arquivo": "fotos/instituto-cortina-dourada-480.webp",
+   "largura": 480,
+   "altura": 521,
+   "kb": 15
+  },
+  {
+   "arquivo": "fotos/instituto-cortina-dourada-960.webp",
+   "largura": 960,
+   "altura": 1041,
+   "kb": 72
+  },
+  {
+   "arquivo": "fotos/instituto-cortina-dourada-1180.webp",
+   "largura": 1180,
+   "altura": 1280,
+   "kb": 131
+  }
+ ],
+ "instituto-cortina-dourada-vertical": [
+  {
+   "arquivo": "fotos/instituto-cortina-dourada-vertical-480.webp",
+   "largura": 480,
+   "altura": 808,
+   "kb": 37
+  },
+  {
+   "arquivo": "fotos/instituto-cortina-dourada-vertical-760.webp",
+   "largura": 760,
+   "altura": 1280,
+   "kb": 109
+  }
+ ],
+ "instituto-cortina-dourada-capa": [
+  {
+   "arquivo": "fotos/instituto-cortina-dourada-capa-480.webp",
+   "largura": 480,
+   "altura": 295,
+   "kb": 25
+  },
+  {
+   "arquivo": "fotos/instituto-cortina-dourada-capa-720.webp",
+   "largura": 720,
+   "altura": 442,
+   "kb": 75
+  }
+ ],
+ "dr-sharbo-casagrande-retrato": [
+  {
+   "arquivo": "fotos/dr-sharbo-casagrande-retrato-480.webp",
+   "largura": 480,
+   "altura": 693,
+   "kb": 22
+  },
+  {
+   "arquivo": "fotos/dr-sharbo-casagrande-retrato-900.webp",
+   "largura": 900,
+   "altura": 1300,
+   "kb": 68
+  }
+ ],
+ "instituto-sala-de-espera": [
+  {
+   "arquivo": "fotos/instituto-sala-de-espera-480.webp",
+   "largura": 480,
+   "altura": 320,
+   "kb": 10
+  },
+  {
+   "arquivo": "fotos/instituto-sala-de-espera-970.webp",
+   "largura": 970,
+   "altura": 647,
+   "kb": 37
+  }
+ ],
+ "instituto-sala-de-espera-4x5": [
+  {
+   "arquivo": "fotos/instituto-sala-de-espera-4x5-520.webp",
+   "largura": 520,
+   "altura": 650,
+   "kb": 26
+  }
+ ],
+ "instituto-consultorio": [
+  {
+   "arquivo": "fotos/instituto-consultorio-480.webp",
+   "largura": 480,
+   "altura": 320,
+   "kb": 16
+  },
+  {
+   "arquivo": "fotos/instituto-consultorio-960.webp",
+   "largura": 960,
+   "altura": 640,
+   "kb": 44
+  },
+  {
+   "arquivo": "fotos/instituto-consultorio-1600.webp",
+   "largura": 1600,
+   "altura": 1067,
+   "kb": 99
+  }
+ ],
+ "instituto-sala-de-atendimento": [
+  {
+   "arquivo": "fotos/instituto-sala-de-atendimento-480.webp",
+   "largura": 480,
+   "altura": 320,
+   "kb": 22
+  },
+  {
+   "arquivo": "fotos/instituto-sala-de-atendimento-960.webp",
+   "largura": 960,
+   "altura": 640,
+   "kb": 64
+  },
+  {
+   "arquivo": "fotos/instituto-sala-de-atendimento-1600.webp",
+   "largura": 1600,
+   "altura": 1067,
+   "kb": 154
+  }
+ ],
+ "instituto-consultorio-2": [
+  {
+   "arquivo": "fotos/instituto-consultorio-2-480.webp",
+   "largura": 480,
+   "altura": 320,
+   "kb": 14
+  },
+  {
+   "arquivo": "fotos/instituto-consultorio-2-960.webp",
+   "largura": 960,
+   "altura": 640,
+   "kb": 39
+  },
+  {
+   "arquivo": "fotos/instituto-consultorio-2-1600.webp",
+   "largura": 1600,
+   "altura": 1067,
+   "kb": 88
+  }
+ ],
+ "instituto-lounge-arandelas": [
+  {
+   "arquivo": "fotos/instituto-lounge-arandelas-480.webp",
+   "largura": 480,
+   "altura": 600,
+   "kb": 17
+  },
+  {
+   "arquivo": "fotos/instituto-lounge-arandelas-683.webp",
+   "largura": 683,
+   "altura": 854,
+   "kb": 28
+  }
+ ],
+ "instituto-sala-luz-quente-vertical": [
+  {
+   "arquivo": "fotos/instituto-sala-luz-quente-vertical-480.webp",
+   "largura": 480,
+   "altura": 878,
+   "kb": 15
+  },
+  {
+   "arquivo": "fotos/instituto-sala-luz-quente-vertical-700.webp",
+   "largura": 700,
+   "altura": 1280,
+   "kb": 25
+  }
+ ],
+ "dra-vivian-ferreira-do-amaral-retrato": [
+  {
+   "arquivo": "fotos/dra-vivian-ferreira-do-amaral-retrato-480.webp",
+   "largura": 480,
+   "altura": 453,
+   "kb": 17
+  },
+  {
+   "arquivo": "fotos/dra-vivian-ferreira-do-amaral-retrato-960.webp",
+   "largura": 960,
+   "altura": 907,
+   "kb": 49
+  },
+  {
+   "arquivo": "fotos/dra-vivian-ferreira-do-amaral-retrato-1080.webp",
+   "largura": 1080,
+   "altura": 1020,
+   "kb": 69
+  }
+ ],
+ "dra-amarilis-sand-retrato": [
+  {
+   "arquivo": "fotos/dra-amarilis-sand-retrato-480.webp",
+   "largura": 480,
+   "altura": 453,
+   "kb": 11
+  },
+  {
+   "arquivo": "fotos/dra-amarilis-sand-retrato-960.webp",
+   "largura": 960,
+   "altura": 907,
+   "kb": 26
+  },
+  {
+   "arquivo": "fotos/dra-amarilis-sand-retrato-1080.webp",
+   "largura": 1080,
+   "altura": 1020,
+   "kb": 33
+  }
+ ],
+ "dra-daniele-kempf-retrato": [
+  {
+   "arquivo": "fotos/dra-daniele-kempf-retrato-480.webp",
+   "largura": 480,
+   "altura": 453,
+   "kb": 13
+  },
+  {
+   "arquivo": "fotos/dra-daniele-kempf-retrato-960.webp",
+   "largura": 960,
+   "altura": 907,
+   "kb": 37
+  },
+  {
+   "arquivo": "fotos/dra-daniele-kempf-retrato-1080.webp",
+   "largura": 1080,
+   "altura": 1020,
+   "kb": 53
+  }
+ ],
+ "dr-sharbo-casagrande-consultorio-quadro": [
+  {
+   "arquivo": "fotos/dr-sharbo-casagrande-consultorio-quadro-480.webp",
+   "largura": 480,
+   "altura": 360,
+   "kb": 10
+  },
+  {
+   "arquivo": "fotos/dr-sharbo-casagrande-consultorio-quadro-800.webp",
+   "largura": 800,
+   "altura": 600,
+   "kb": 18
+  }
+ ],
+ "instituto-predio-vista-aerea-quadro": [
+  {
+   "arquivo": "fotos/instituto-predio-vista-aerea-quadro-480.webp",
+   "largura": 480,
+   "altura": 365,
+   "kb": 22
+  },
+  {
+   "arquivo": "fotos/instituto-predio-vista-aerea-quadro-960.webp",
+   "largura": 960,
+   "altura": 730,
+   "kb": 58
+  },
+  {
+   "arquivo": "fotos/instituto-predio-vista-aerea-quadro-1420.webp",
+   "largura": 1420,
+   "altura": 1080,
+   "kb": 103
+  }
+ ]
+}
