@@ -90,3 +90,5 @@
 :where(.pg-agendar) .ag-form .opcoes > .opcao:only-child{ grid-column:1 / -1; }
 
 @media (max-width:1024px){ :where(.pg-agendar) .ag-midia img{ object-position:42% 2%; } }
+
+@media (max-width:1024px){ :where(.pg-agendar) .ag-midia{ top:var(--topo-h); height:calc(var(--ag-foto) - var(--topo-h)); } }

@@ -15,8 +15,8 @@
 :where(.pg-regen) .rg-marca{ display:flex; flex-wrap:wrap; align-items:center; gap:var(--e-3); }
 :where(.pg-regen) .rg-marca .pilula{ color:var(--branco); background:var(--regen-provisorio); border-color:transparent; }
 :where(.pg-regen) .abertura--linha{ --midia-x:34%; }
-:where(.pg-regen) .abertura-midia{ --foco:58% 40%; }
-@media (max-width:820px){ :where(.pg-regen) .abertura-midia{ --foco:56% 12%; } }
+:where(.pg-regen) .abertura-midia{ --foco:72% 32%; }
+@media (max-width:820px){ :where(.pg-regen) .abertura-midia{ --foco:50% 14%; } }
 
 
 :where(.pg-regen) .rg-oque{ display:grid; grid-template-columns:repeat(12,minmax(0,1fr)); column-gap:var(--calha); row-gap:var(--e-7); align-items:start; }

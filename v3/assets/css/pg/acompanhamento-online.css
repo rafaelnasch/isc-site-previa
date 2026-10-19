@@ -92,7 +92,7 @@
 
 
 .pg-acompanhamento-online .abertura-midia{ --foco:72% 40%; }
-@media (max-width:820px){ .pg-acompanhamento-online .abertura-midia{ --foco:80% 30%; } }
+@media (max-width:820px){ .pg-acompanhamento-online .abertura-midia{ --foco:50% 18%; } }
 
 
 

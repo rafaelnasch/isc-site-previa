@@ -130,7 +130,7 @@
 }
 
 
-:where(.pg-benessere) .abertura-midia{ --foco:50% 26%; }
+:where(.pg-benessere) .abertura-midia{ --foco:60% 30%; }
 @media (max-width:820px){ :where(.pg-benessere) .abertura-midia{ --foco:50% 14%; } }
 
 @media (max-width:820px){
