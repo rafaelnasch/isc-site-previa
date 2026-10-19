@@ -1,0 +1,90 @@
+{
+ "dr-sharbo-casagrande-retrato": [
+  {
+   "arquivo": "fotos/dr-sharbo-casagrande-retrato-480.webp",
+   "largura": 480,
+   "altura": 693,
+   "kb": 22
+  },
+  {
+   "arquivo": "fotos/dr-sharbo-casagrande-retrato-900.webp",
+   "largura": 900,
+   "altura": 1300,
+   "kb": 68
+  }
+ ],
+ "dra-vivian-ferreira-do-amaral-retrato": [
+  {
+   "arquivo": "fotos/dra-vivian-ferreira-do-amaral-retrato-480.webp",
+   "largura": 480,
+   "altura": 453,
+   "kb": 17
+  },
+  {
+   "arquivo": "fotos/dra-vivian-ferreira-do-amaral-retrato-960.webp",
+   "largura": 960,
+   "altura": 907,
+   "kb": 49
+  },
+  {
+   "arquivo": "fotos/dra-vivian-ferreira-do-amaral-retrato-1080.webp",
+   "largura": 1080,
+   "altura": 1020,
+   "kb": 69
+  }
+ ],
+ "dra-amarilis-sand-retrato": [
+  {
+   "arquivo": "fotos/dra-amarilis-sand-retrato-480.webp",
+   "largura": 480,
+   "altura": 453,
+   "kb": 11
+  },
+  {
+   "arquivo": "fotos/dra-amarilis-sand-retrato-960.webp",
+   "largura": 960,
+   "altura": 907,
+   "kb": 26
+  },
+  {
+   "arquivo": "fotos/dra-amarilis-sand-retrato-1080.webp",
+   "largura": 1080,
+   "altura": 1020,
+   "kb": 33
+  }
+ ],
+ "dra-daniele-kempf-retrato": [
+  {
+   "arquivo": "fotos/dra-daniele-kempf-retrato-480.webp",
+   "largura": 480,
+   "altura": 453,
+   "kb": 13
+  },
+  {
+   "arquivo": "fotos/dra-daniele-kempf-retrato-960.webp",
+   "largura": 960,
+   "altura": 907,
+   "kb": 37
+  },
+  {
+   "arquivo": "fotos/dra-daniele-kempf-retrato-1080.webp",
+   "largura": 1080,
+   "altura": 1020,
+   "kb": 53
+  }
+ ],
+ "dr-sharbo-casagrande-consultorio-quadro": [
+  {
+   "arquivo": "fotos/dr-sharbo-casagrande-consultorio-quadro-480.webp",
+   "largura": 480,
+   "altura": 360,
+   "kb": 10
+  },
+  {
+   "arquivo": "fotos/dr-sharbo-casagrande-consultorio-quadro-800.webp",
+   "largura": 800,
+   "altura": 600,
+   "kb": 18
+  }
+ ]
+}

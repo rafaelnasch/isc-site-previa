@@ -1,0 +1,93 @@
+
+
+
+:where(.pg-cirurgia-plastica) .abertura-midia :is(img,video){ --origem:50% 50%; }
+@media (max-width:820px){ :where(.pg-cirurgia-plastica) .abertura-midia :is(img,video){ object-position:var(--foco-movel,50% 55%); } }
+
+
+
+:where(.pg-cirurgia-plastica) .tela-foto-lugar{ display:flex; align-items:center; gap:var(--e-3); margin-top:var(--e-5); font:500 var(--t-rotulo)/1.4 var(--texto); letter-spacing:var(--track); text-transform:uppercase; color:var(--champanhe); }
+@media (max-width:640px){ :where(.pg-cirurgia-plastica) .tela-foto img{ object-position:var(--foco-movel,var(--foco,50% 50%)); } }
+:where(.pg-cirurgia-plastica) .tela-foto-lugar::before{ content:""; width:32px; height:1px; background:currentColor; }
+
+
+:where(.pg-cirurgia-plastica) .causas-base{ display:flex; flex-wrap:wrap; justify-content:space-between; align-items:center; gap:var(--e-4);
+  margin-top:var(--e-8); padding-top:var(--e-5); border-top:1px solid var(--f-fio); }
+:where(.pg-cirurgia-plastica) .causas-base p{ max-width:60ch; font-size:var(--t-apoio); color:var(--f-texto); }
+:where(.pg-cirurgia-plastica) .causas-base strong{ color:var(--f-titulo); }
+
+
+:where(.pg-cirurgia-plastica) .aba-corpo > .aba-texto{ grid-column:1 / span 7; }
+:where(.pg-cirurgia-plastica) .aba-corpo > .aba-texto .aba-def{ font:400 var(--t-chamada)/1.6 var(--texto); color:var(--f-titulo); }
+:where(.pg-cirurgia-plastica) .aba-corpo > .aba-texto .ficha-tec{ margin-top:var(--e-6); }
+:where(.pg-cirurgia-plastica) .aba-corpo > .aba-lado{ grid-column:8 / -1; }
+:where(.pg-cirurgia-plastica) .aba-lado figure{ margin:0; }
+:where(.pg-cirurgia-plastica) .aba-lado figcaption{ margin-top:var(--e-3); font-size:var(--t-legenda); line-height:1.5; color:var(--f-apoio); }
+:where(.pg-cirurgia-plastica) .aba-lado svg{ display:block; width:100%; height:auto; max-width:440px; }
+
+
+:where(.pg-cirurgia-plastica) .abertura-medico--texto{ max-width:300px; }
+
+
+:where(.pg-cirurgia-plastica) #caminhos .aba-lado .ficha-tec{ margin-top:0; grid-template-columns:minmax(0,1fr); }
+:where(.pg-cirurgia-plastica) #caminhos .aba-lado .ficha-tec dt{ padding-bottom:0; border-bottom:0; }
+:where(.pg-cirurgia-plastica) #caminhos .aba-lado .ficha-tec dd{ padding-top:var(--e-2); }
+
+
+:where(.pg-cirurgia-plastica) .levar{ display:grid; grid-template-columns:repeat(12,minmax(0,1fr)); column-gap:var(--calha); row-gap:var(--e-8); align-items:start; }
+:where(.pg-cirurgia-plastica) .levar-lista{ grid-column:1 / span 7; margin:0; padding:0; border:0; min-width:0; }
+:where(.pg-cirurgia-plastica) .levar-ficha{ grid-column:9 / -1; }
+:where(.pg-cirurgia-plastica) .levar-lista ul{ border-top:1px solid var(--f-fio-destaque); }
+:where(.pg-cirurgia-plastica) .levar-lista li{ border-bottom:1px solid var(--f-fio); }
+:where(.pg-cirurgia-plastica) .levar-lista label{ display:grid; grid-template-columns:28px minmax(0,1fr); gap:var(--e-4); align-items:start; padding:var(--e-4) 0; cursor:pointer;
+  font-size:var(--t-corpo); line-height:1.55; color:var(--f-texto); }
+:where(.pg-cirurgia-plastica) .levar-lista input{ appearance:none; -webkit-appearance:none; width:24px; height:24px; margin:2px 0 0; border:1px solid var(--f-fio-destaque); background:transparent; cursor:pointer;
+  display:grid; place-content:center; transition:background-color .2s ease; }
+:where(.pg-cirurgia-plastica) .levar-lista input::after{ content:""; width:14px; height:14px; background:var(--marfim); -webkit-mask:var(--ic-check) center/contain no-repeat; mask:var(--ic-check) center/contain no-repeat; transform:scale(0); transition:transform .2s var(--curva); }
+:where(.pg-cirurgia-plastica) .levar-lista input:checked{ background:var(--marrom); border-color:var(--marrom); }
+:where(.pg-cirurgia-plastica) .levar-lista input:checked::after{ transform:scale(1); }
+:where(.pg-cirurgia-plastica) .levar-lista input:focus-visible{ outline:2px solid var(--f-enfase); outline-offset:3px; }
+:where(.pg-cirurgia-plastica) .levar-lista input:checked + span{ color:var(--f-titulo); }
+:where(.pg-cirurgia-plastica) .levar-acoes{ display:flex; flex-wrap:wrap; align-items:center; gap:var(--e-4); margin-top:var(--e-6); }
+:where(.pg-cirurgia-plastica) .levar-acoes[hidden]{ display:none; }
+:where(.pg-cirurgia-plastica) .levar-copiar{ display:inline-flex; align-items:center; gap:var(--e-2); min-height:48px; padding:var(--e-2) var(--e-5); border:1px solid var(--f-fio-destaque);
+  font:500 var(--t-legenda)/1.3 var(--texto); letter-spacing:.04em; color:var(--f-titulo); background:transparent; cursor:pointer; transition:background-color .2s ease; }
+:where(.pg-cirurgia-plastica) .levar-copiar:hover{ background:var(--f-painel); }
+:where(.pg-cirurgia-plastica) .levar-copiar .ic{ width:18px; height:18px; color:var(--f-enfase); }
+:where(.pg-cirurgia-plastica) .levar-status{ font-size:var(--t-legenda); color:var(--f-apoio); }
+
+
+:where(.pg-cirurgia-plastica) .conduz{ display:grid; grid-template-columns:repeat(12,minmax(0,1fr)); column-gap:var(--calha); row-gap:var(--e-7); align-items:start; }
+:where(.pg-cirurgia-plastica) .conduz-id{ grid-column:1 / span 6; padding-left:var(--e-6); border-left:1px solid var(--f-fio-destaque); }
+:where(.pg-cirurgia-plastica) .conduz-id h2{ font-size:var(--t-capitulo); line-height:1.04; }
+:where(.pg-cirurgia-plastica) .conduz-id .id-medica{ margin-top:var(--e-6); font-size:15px; color:var(--f-titulo); }
+:where(.pg-cirurgia-plastica) .conduz-texto{ grid-column:8 / -1; }
+:where(.pg-cirurgia-plastica) .conduz-texto .ficha-tec,:where(.pg-cirurgia-plastica) .conduz-texto .botoes{ margin-top:var(--e-6); }
+@media (max-width:1024px){
+  :where(.pg-cirurgia-plastica) :is(.levar-lista,.levar-ficha,.conduz-id,.conduz-texto){ grid-column:1 / -1; }
+}
+@media (max-width:640px){ :where(.pg-cirurgia-plastica) .conduz-id{ padding-left:var(--e-4); } }
+
+
+:where(.pg-cirurgia-plastica) .faq-grade .essencial{ margin-top:var(--e-7); }
+
+
+:where(.pg-cirurgia-plastica) .v3-meio{ display:grid; grid-template-columns:minmax(0,1fr) auto; column-gap:var(--e-8); row-gap:var(--e-2); align-items:center;
+  margin-top:var(--e-8); padding-top:var(--e-6); border-top:1px solid var(--f-fio); }
+:where(.pg-cirurgia-plastica) .v3-meio-tit{ grid-column:1; font:400 var(--t-h4)/1.2 var(--display); color:var(--f-titulo); max-width:28ch; }
+:where(.pg-cirurgia-plastica) .v3-meio-apoio{ grid-column:1; font-size:var(--t-apoio); line-height:1.6; color:var(--f-apoio); max-width:58ch; }
+:where(.pg-cirurgia-plastica) .v3-meio .btn{ grid-column:2; grid-row:1 / span 2; }
+:where(.pg-cirurgia-plastica) .v3-meio .v3-micro{ grid-column:2; margin-top:var(--e-2); text-align:center; }
+@media (max-width:820px){
+  :where(.pg-cirurgia-plastica) .v3-meio{ grid-template-columns:minmax(0,1fr); }
+  :where(.pg-cirurgia-plastica) .v3-meio > *,:where(.pg-cirurgia-plastica) .v3-meio .btn,:where(.pg-cirurgia-plastica) .v3-meio .v3-micro{ grid-column:1; grid-row:auto; }
+  :where(.pg-cirurgia-plastica) .v3-meio .btn{ margin-top:var(--e-4); justify-self:stretch; white-space:normal; text-align:center; }
+  :where(.pg-cirurgia-plastica) .v3-meio .v3-micro{ text-align:left; }
+}
+
+@media (max-width:820px){
+  :where(.pg-cirurgia-plastica) .abertura .abertura-midia{ top:var(--topo-h); }
+  
+  :where(.pg-cirurgia-plastica) .abertura .abertura-midia::before{ display:none; }
+  :where(.pg-cirurgia-plastica) .abertura .abertura-midia::after{ background:linear-gradient(to top,var(--preto) 0%,rgba(18,19,20,.88) 26%,rgba(18,19,20,.4) 56%,rgba(18,19,20,0) 84%); }
+}

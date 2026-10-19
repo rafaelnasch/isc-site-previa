@@ -1,0 +1,47 @@
+
+
+
+:where(.pg-privacidade) .pv-abre{ padding:calc(var(--topo-h) + var(--e-8)) 0 var(--e-9); background:radial-gradient(70% 60% at 85% 0%,rgba(195,121,28,.08),rgba(18,19,20,0) 70%),var(--preto); }
+:where(.pg-privacidade) .pv-abre-in{ display:grid; grid-template-columns:repeat(12,minmax(0,1fr)); column-gap:var(--calha); row-gap:var(--e-7); align-items:end; }
+:where(.pg-privacidade) .pv-abre-texto{ grid-column:1 / span 7; }
+:where(.pg-privacidade) .pv-abre-texto .hero-migalha{ margin-bottom:var(--e-5); }
+:where(.pg-privacidade) .pv-titulo{ margin-top:var(--e-4); font-size:var(--t-abertura); line-height:1.04; }
+:where(.pg-privacidade) .pv-resposta{ margin-top:var(--e-6); color:var(--branco-quente); max-width:36em; }
+:where(.pg-privacidade) .pv-resposta strong{ color:var(--branco); }
+:where(.pg-privacidade) .pv-abre-lado{ grid-column:9 / -1; }
+:where(.pg-privacidade) .pv-ficha{ margin-top:var(--e-6); border-top:1px solid var(--fio-escuro); }
+:where(.pg-privacidade) .pv-ficha > div{ display:grid; gap:var(--e-1); padding:var(--e-3) 0; border-bottom:1px solid var(--fio-escuro); }
+:where(.pg-privacidade) .pv-ficha dt{ font:500 var(--t-rotulo)/1.4 var(--texto); letter-spacing:var(--track); text-transform:uppercase; color:var(--fumaca); }
+:where(.pg-privacidade) .pv-ficha dd{ margin:0; font-size:var(--t-apoio); line-height:1.55; color:var(--branco-quente); }
+@media (max-width:1024px){ :where(.pg-privacidade) .pv-abre-texto,:where(.pg-privacidade) .pv-abre-lado{ grid-column:1 / -1; } }
+
+
+:where(.pg-privacidade) .pv-resumo{ max-width:760px; margin-bottom:var(--e-9); }
+:where(.pg-privacidade) .pv-doc{ display:grid; grid-template-columns:repeat(12,minmax(0,1fr)); column-gap:var(--calha); align-items:start; }
+:where(.pg-privacidade) .pv-sumario{ grid-column:1 / span 3; position:sticky; top:calc(var(--topo-compacto) + var(--e-6)); }
+:where(.pg-privacidade) .pv-sumario > .rotulo{ display:block; margin-bottom:var(--e-3); }
+:where(.pg-privacidade) .pv-sumario ol{ border-top:1px solid var(--f-fio-destaque); }
+:where(.pg-privacidade) .pv-sumario a{ display:grid; grid-template-columns:28px minmax(0,1fr); gap:var(--e-2); align-items:baseline; min-height:44px; padding:var(--e-2) 0; border-bottom:1px solid var(--f-fio);
+  font-size:var(--t-legenda); line-height:1.45; color:var(--f-texto); text-decoration:none; transition:color .2s ease; }
+:where(.pg-privacidade) .pv-sumario a span{ font-weight:500; color:var(--marrom); font-variant-numeric:tabular-nums; }
+:where(.pg-privacidade) .pv-sumario a:hover,:where(.pg-privacidade) .pv-sumario a[aria-current="true"]{ color:var(--f-titulo); }
+:where(.pg-privacidade) .pv-sumario a[aria-current="true"]{ font-weight:600; }
+:where(.pg-privacidade) .pv-corpo{ grid-column:5 / -1; max-width:72ch; }
+:where(.pg-privacidade) .pv-secao{ padding-top:var(--e-7); border-top:1px solid var(--f-fio); scroll-margin-top:calc(var(--topo-compacto) + var(--e-5)); }
+:where(.pg-privacidade) .pv-secao + .pv-secao{ margin-top:var(--e-7); }
+:where(.pg-privacidade) .pv-secao:first-child{ padding-top:0; border-top:0; }
+:where(.pg-privacidade) .pv-n{ font:400 40px/1 var(--display); color:var(--marrom); margin-bottom:var(--e-3); }
+:where(.pg-privacidade) .pv-secao h2{ font-size:clamp(28px,.95vw + 24px,36px); line-height:1.12; margin-bottom:var(--e-5); }
+:where(.pg-privacidade) .pv-secao .texto{ font-size:var(--t-corpo); line-height:1.7; color:var(--f-texto); }
+:where(.pg-privacidade) .pv-secao .texto > * + *{ margin-top:var(--e-4); }
+:where(.pg-privacidade) .pv-secao .texto strong{ color:var(--f-titulo); }
+:where(.pg-privacidade) .pv-secao .pendente{ white-space:normal; }
+:where(.pg-privacidade) .pv-secao .nota{ margin-top:var(--e-6); }
+:where(.pg-privacidade) .pv-secao .botoes{ margin-top:var(--e-6); }
+@media (max-width:1024px){
+  :where(.pg-privacidade) .pv-sumario{ grid-column:1 / -1; position:static; margin-bottom:var(--e-8); }
+  :where(.pg-privacidade) .pv-sumario ol{ display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); column-gap:var(--calha); }
+  :where(.pg-privacidade) .pv-corpo{ grid-column:1 / -1; }
+}
+@media (max-width:640px){ :where(.pg-privacidade) .pv-sumario ol{ grid-template-columns:minmax(0,1fr); } }
+:where(.pg-privacidade) .pv-doc-sec{ padding-top:var(--cap-y); padding-bottom:var(--cap-y); }
