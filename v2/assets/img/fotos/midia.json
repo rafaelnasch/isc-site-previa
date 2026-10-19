@@ -1,0 +1,311 @@
+{
+ "instituto-cortina-dourada": {
+  "origem": "_brief/v2/midia-candidata/fotos/instituto-cortina-dourada-1180x1280.jpg",
+  "largura": 1180,
+  "altura": 1280,
+  "webp": [
+   480,
+   960,
+   1180
+  ],
+  "avif": [
+   480,
+   960,
+   1180
+  ],
+  "lqip": "data:image/webp;base64,UklGRtYAAABXRUJQVlA4IMoAAABwBQCdASoYABoAPtlgo02oJiMiN/qoAQAbCWoAsOwj2+9blHMA6uK3GlnNm2UtG+2Z6JAAAOIGFqXU8if7dvuQNN9ki/5me3Xm2LhVkk2MDNiAB4PFo7/ZuJ7tHnWQZIwaxpYqio2mbX7EIISvAELgmB0OoUbvfCL8b5BQ9tRipl1In+26GQIkx8QxhntysKGS69wTgRZuEsOOlhnlQPWSHXRJSEMeg9KkQCsvRQc+10U4BUITQMCcSvAweT93LP/B+AwvG8BsAAAA",
+  "cor": "#9A8371"
+ },
+ "instituto-cortina-dourada-vertical": {
+  "origem": "_brief/v2/midia-candidata/fotos/instituto-cortina-dourada-vertical-760x1280.jpg",
+  "largura": 760,
+  "altura": 1280,
+  "webp": [
+   480,
+   760
+  ],
+  "avif": [
+   480,
+   760
+  ],
+  "lqip": "data:image/webp;base64,UklGRioBAABXRUJQVlA4IB4BAABwBwCdASoYACgAPulap02pJKOiOrM4ASAdCWwAsR9ofvX7YHv3YQNf7/PyzdNLaPbamRWJxD0KdW56zg2nDFe4hpyQAAD9U476EB5avN1Ud6/xTgCUdRbtrxl/dELGvhptDnjFCuVUafTtK7/sBKJYj/FGMtpy9V4wxG9+WLn+4k/oVbUhNBdN4aEHUiCr95XmFBQC5UYksxUT+pgscijT493QeTuzoVoea25PgnPB+QP3fByYPtpDaD6mNk4Ddo4LrpKqmzKatD2N78re05kqjVAuKdNsK4q/lHQS+D3abeMNnuBukbBnu6zgj8/j6k2ate0dKqIRaoK/O88xY2JQGDv1vWZprXXyKp3lxOzK/fc2LMpmqvb2W9ZJtmAA",
+  "cor": "#9E7F69"
+ },
+ "instituto-sala-de-espera-ampla": {
+  "origem": "_brief/v2/midia-candidata/fotos/instituto-sala-de-espera-1300x1280.jpg",
+  "largura": 1300,
+  "altura": 1280,
+  "webp": [
+   480,
+   960,
+   1300
+  ],
+  "avif": [
+   480,
+   960,
+   1300
+  ],
+  "lqip": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAAAwBQCdASoYABgAPu1erE2ppKSiMBgMATAdiWQAAI8lZ8VYzsTUE+tX8WovCBJAYq24AAD+74EarZSe+RPFDNPrEBOiJdzCM/dN2NfDtKWf5qqQXAicYSGevXJpvpGWJM6l5MHURTZEFgn0mCLWOWzMJGiZNfHzrzURIY11vWRo73v0K5e21gan3y5p6di6KcRxeOolsmGSxQiRiEs+8JjKEtbjxcJDmkhEWNua+jr1CpwQmuDJG6DO3wAAAA==",
+  "cor": "#6E645B"
+ },
+ "instituto-consultorio": {
+  "origem": "_brief/v2/midia-candidata/fotos/instituto-consultorio-dr-sharbo-1920x1280.jpg",
+  "largura": 1920,
+  "altura": 1280,
+  "webp": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "avif": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "lqip": "data:image/webp;base64,UklGRqwAAABXRUJQVlA4IKAAAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBYdg3B/W8LGrBsQpYtYcAD+4aQYY+2SBRawuE6LijURzJlhpFFaPC5jX54/YfEr4uFTkUWp09j486vzH3f8AD7SIld9JMa/tswZYsGGSlty4S2X6nShistfcn27o/4++fz3ev86ZiW+sIQOQ992KKlgfPZ9z3HihETyFRQCTMCPwaGWkQAA",
+  "cor": "#B6A89B"
+ },
+ "instituto-sala-de-atendimento": {
+  "origem": "_brief/v2/midia-candidata/fotos/instituto-sala-de-atendimento-janelas-verde-1920x1280.jpg",
+  "largura": 1920,
+  "altura": 1280,
+  "webp": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "avif": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "lqip": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYwCdABbT+4WyjS+yrybSgAD+kbOLI8yjaWlM/zu8UPKicmkFuvt7OfCINw4wFdsiEU0q4O1/MDXzMGBCZfa/kRPYVXIejEv8bljNuaeR/yWoQaSkYLPM1/ToJy4shcDLU6GefRgPxPVRSyjA0FRCJXIAAA==",
+  "cor": "#9397A0"
+ },
+ "instituto-consultorio-2": {
+  "origem": "_brief/v2/midia-candidata/fotos/instituto-consultorio-2-1920x1280.jpg",
+  "largura": 1920,
+  "altura": 1280,
+  "webp": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "avif": [
+   960,
+   1600,
+   1920
+  ],
+  "lqip": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAADQAwCdASoYABAAPu1iqU2ppaOiMAgBMB2JQBadAcFXKqfzkHmcGKAA+NRMTCF7CXLezYGtneuWc0HczYPodcgKLDuHPPa14Vq+khkarhYiBe7DgUPeYNtg3AN+xat+31ydj94Ecx3O0AfA4IHEf6WkTIXVMUkCPomyMCLIGaqXu3hs2oAAAA==",
+  "cor": "#9F9C9A"
+ },
+ "instituto-lounge-arandelas-amplo": {
+  "origem": "_brief/v2/midia-candidata/fotos/instituto-lounge-arandelas-1920x1280.jpg",
+  "largura": 1920,
+  "altura": 1280,
+  "webp": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "avif": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "lqip": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAADQAwCdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOmUABFlkDp18ihroAA/j1xZFehmNNTLwvWaFvtcWgYapR5NEltxxWM6rOV6aT/l/ab/KrZ9iU1Y7ifcdPSwG4E+u7n/+i0PpnaPzAA8MNxIkl2PHSwbodRIoRIl/HCwUvKm1lC0ddhEx6GAb4SwAA=",
+  "cor": "#696D73"
+ },
+ "instituto-sala-luz-quente-vertical": {
+  "origem": "_brief/v2/midia-candidata/fotos/instituto-sala-repouso-luz-ambar-700x1280.jpg",
+  "largura": 700,
+  "altura": 1280,
+  "webp": [
+   480,
+   700
+  ],
+  "avif": [
+   480,
+   700
+  ],
+  "lqip": "data:image/webp;base64,UklGRv4AAABXRUJQVlA4IPIAAACQBwCdASoYACwAPu1gqU6ppSOiMBVdUTAdiWoArDMqxSephP56/WkX3CNm09XXGkq6yiI3+ZXRdxZbwPS/03U153j2isAA/u1OvrR++HxjMETOMuJKtZprS3a/DpQfFnfD4Rvn89cAoNRX6wshuKwnvFy0XB3X5Wxyxn7bod6YCTIxKDbw0JCvfpB2XsUF1/bthTKNLPb/g18uSTfA61yttuSB1CfGbvMdwxnBc4Nw2Or5j/qWHMVW/xchbool6r9JVMoDBdLX/LvdhHj1i6f6ZernHdrhWHcQ0Dcr4ru3pY6PMyT/OdJH4xnAcSmDkhuAAA==",
+  "cor": "#A06A3E"
+ },
+ "dr-sharbo-casagrande-retrato": {
+  "origem": "_brief/v2/midia-candidata/retratos/dr-sharbo-casagrande-retrato-poltrona-900x1300.jpg",
+  "largura": 900,
+  "altura": 1300,
+  "webp": [
+   480,
+   900
+  ],
+  "avif": [
+   480,
+   900
+  ],
+  "lqip": "data:image/webp;base64,UklGRuoAAABXRUJQVlA4IN4AAABwBgCdASoYACMAPu1krVGppKQiqrgKATAdiWMAxq+hw2weV/UFv5L4YOnbJqR/cthyR709fOlKh5muasAA/uvcfVztxptUcHLEWWPT4dxpdvr/dwFj41PjRBIjqOHXrtGAaboZjykr1BG8iVs7goN8kS4rfQ1zT9uSBvNekIkV0cDtNj5Hr6d8/HJce2p0xLilO4HlwQv4bAlEMdKvjFjtTFGSL/QFL9aPTt4YtI4LNbXQ6eyYNQjU4KRvB37nJ9Sp4xNb/3OTabdEDNdq/Gp4XGmmrC46pnQLtqYAAAA=",
+  "cor": "#584C4C"
+ },
+ "dra-vivian-ferreira-do-amaral-retrato": {
+  "origem": "_brief/v2/midia-candidata/retratos/dra-vivian-ferreira-do-amaral-retrato-1080x1020.webp",
+  "largura": 1080,
+  "altura": 1020,
+  "webp": [
+   480,
+   960,
+   1080
+  ],
+  "avif": [
+   480,
+   960,
+   1080
+  ],
+  "lqip": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAAAQBQCdASoYABcAPu1sqlEppaOiqAqpMB2JZADE2BDSYSTeL2uo67a5XAppUiEtp8yAAP7qj3Sf8kcnItAMzC+xKSlqx7wWshbc9+iIrINzDLKo/aEgpOE9Ff/OIWkOkU0z9wr7J9wQm1r6AOrC6xFNaCv/qjIW1DJM9IEjn/OGSkt79YTW7MsQluUjXLKlvPKDiyBxo8tglIAA",
+  "cor": "#98897D"
+ },
+ "dra-amarilis-sand-retrato": {
+  "origem": "_brief/v2/midia-candidata/retratos/dra-amarilis-sand-retrato-1080x1020.webp",
+  "largura": 1080,
+  "altura": 1020,
+  "webp": [
+   480,
+   960,
+   1080
+  ],
+  "avif": [
+   480,
+   960,
+   1080
+  ],
+  "lqip": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAABQBQCdASoYABcAPu1ur1IppiQiqAgBMB2JZQCdMtDBotFRGwZCBl3+XYc49zEdJFUG8eAA/uIClmT1udn/AS5YwmuTmMZl7EkUZA0VDY5xQb72YIXaWQOUkabQh35JXSxm0e8xxr6b/Esw97JnUn2hE/Ka9mKktm9/ZEctXBMHj+Flk+7x3NGPY3jkYsmWiR4xQVW1E851+PnEPRWSCjFzAAA=",
+  "cor": "#94897B"
+ },
+ "dra-daniele-kempf-retrato": {
+  "origem": "_brief/v2/midia-candidata/retratos/dra-daniele-kempf-retrato-1080x1020.webp",
+  "largura": 1080,
+  "altura": 1020,
+  "webp": [
+   480,
+   960,
+   1080
+  ],
+  "avif": [
+   480,
+   960,
+   1080
+  ],
+  "lqip": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAAAQBQCdASoYABcAPu1wsFIppiSiqAgBMB2JYgC7M47BMFAeJIzc3RdJgeMpriuq6AwAAP7qf7UNzDWQoQ0kOMqYDUvcAGsM/OVF5dITmO3UAluDet6JsSNYDfQD4nxUcUYOnWqRCkBmhc48NgW5mnXrhorZZP9U0n/u5EVjfCJfEg6+ZWIu0GarJfQAAA==",
+  "cor": "#B6A18F"
+ },
+ "instituto-cortina-correntes-quadro": {
+  "origem": "_brief/v2/midia-candidata/quadros/cortina-dourada-detalhe-980x1080.jpg",
+  "largura": 980,
+  "altura": 1080,
+  "webp": [
+   480,
+   960,
+   980
+  ],
+  "avif": [
+   480,
+   960,
+   980
+  ],
+  "lqip": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAABwBACdASoYABoAPu1eq02ppSQiMBgMATAdiWMAtOgMTy1nKhRg2XfPT9A8OAD+6PF0Z9d+Q2GVm4Qj0YmPRpnbLRS9dbVbca0LWpF5eU0doNDJdAcLatf7+ubf+vkiwVlfTAK7o4AAAA==",
+  "cor": "#7F5734"
+ },
+ "instituto-sala-de-espera-poltronas-quadro": {
+  "origem": "_brief/v2/midia-candidata/quadros/sala-de-espera-poltronas-980x1080.jpg",
+  "largura": 980,
+  "altura": 1080,
+  "webp": [
+   480,
+   960,
+   980
+  ],
+  "avif": [
+   480,
+   960,
+   980
+  ],
+  "lqip": "data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAAAwBQCdASoYABoAPuVepU2pJSOiMAwBIByJZACdMoACdX4C4JXV6b8tCwRagw6JCK7AAAD+d7aIOwjVSpeRV8IHD8VPN3lAIG4SbfDO8VoPCSyh7R/3fTqECqWlfa1hlgd8bwvTLZvgS8MHktB8dAeREixgVlAVVso2AbvJgL0z9bMDyA/kTdmoImadYXrhZriYau8fykIE++Y42x7nh48IlfWvNCJvkbbD1fwqzZ8cpIVp8iw50xpa506S3D0sddAAAA==",
+  "cor": "#8A7C62"
+ },
+ "instituto-pendentes-folha-dourada-quadro": {
+  "origem": "_brief/v2/midia-candidata/quadros/consultorio-pendentes-folha-dourada-800x1080.jpg",
+  "largura": 800,
+  "altura": 1080,
+  "webp": [
+   480,
+   800
+  ],
+  "avif": [
+   480,
+   800
+  ],
+  "lqip": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAABQBQCdASoYACAAPuFgqE2opaQiMAwBEBwJQBgbhC10RcO64/0fYW1MQ/VIkvODI3LHqcAA/vDb/cRosvCcg+MaIwYgZX8qmwFBwJ6Sne+La1LMOSfpKAoPcBKwi1GGP0Y1ChOR9/2US9WW5JQCmAv+efFgH7YXTXxYReGrSDG4UF3YAR++jA1wCMQGnKEAAAA=",
+  "cor": "#625D43"
+ },
+ "ecoville-vista-aerea-avenida-quadro": {
+  "origem": "_brief/v2/midia-candidata/quadros/drone-ecoville-avenida-ipes-1920x900.jpg",
+  "largura": 1920,
+  "altura": 900,
+  "webp": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "avif": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "lqip": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAADQAwCdASoYAAsAPu1iqU2ppaOiMAgBMB2JQBdgA+iSM3A0M5E1rQAA/motTnnSRzFVin6WUrLR9gK5/rzLJQHq44L7VrPUcLwQScFtbWHyfBqCvD7BNR8ltka3p9jf6Pa1bOqkk2uA1OYPIkAAAA==",
+  "cor": "#63625A"
+ },
+ "ecoville-vista-aerea-mata-quadro": {
+  "origem": "_brief/v2/midia-candidata/quadros/drone-ecoville-mata-predios-1920x900.jpg",
+  "largura": 1920,
+  "altura": 900,
+  "webp": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "avif": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "lqip": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAAAwBACdASoYAAsAPu1kqU2ppaQiMAgBMB2JZQDE2Bwuf/a3GZwuY1lVwxAA+yLBQ0PIitPkVTspNMuR39Np/nPyCJ+pnpobNsaiO4ZxyIXoI71XYWUFtrlnUKhd1u0gcjpz0wCP4xG3nWYDF0OkRMbEh3jPs8VXsAA=",
+  "cor": "#666662"
+ },
+ "dr-sharbo-casagrande-consultorio-mesa-quadro": {
+  "origem": "_brief/v2/midia-candidata/quadros/dr-sharbo-mesa-acenando-1100x860.jpg",
+  "largura": 1100,
+  "altura": 860,
+  "webp": [
+   480,
+   960,
+   1100
+  ],
+  "avif": [
+   480,
+   960,
+   1100
+  ],
+  "lqip": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABwBACdASoYABMAPuFgpU2opaOiN/VYARAcCWUAwoAQ3fODgtxWe9gXdI8gEAD+70Hb7n3vm2miLbgjov6vxhgIziV2vk/ttzP6GNuw3+GLf/jU5u9e973oXKoSy2VuQKaT/6wAAAA=",
+  "cor": "#413928"
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "instituto-cortina-correntes-loop": {
+  "origem": "_brief/v2/midia-candidata/video/cortina-dourada-movimento-980x1080-2s.mp4",
+  "largura": 720,
+  "altura": 794,
+  "duracao": 6.77,
+  "webm_kb": 361,
+  "mp4_kb": 388,
+  "crf_vp9": 50,
+  "crf_264": 33,
+  "poster": [
+   480,
+   720
+  ],
+  "lqip": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAACQBACdASoYABoAPu1krE6ppaSiKA1RMB2JYwClrA2NmAS1o2LbJNiUFwpBcgAA/ujv3mxB8ug8GyEoyDhkJzmltlstFaz/tx3JqXzvrbs+r0QZwPo56v5awpdXG2qlqEDkaDyOSyAcuz4UACQdAAAA",
+  "cor": "#996E47"
+ },
+ "instituto-pendentes-folha-dourada-loop": {
+  "origem": "_brief/v2/midia-candidata/video/consultorio-pendentes-folha-dourada-800x1080-3s.mp4",
+  "largura": 720,
+  "altura": 972,
+  "duracao": 8.97,
+  "webm_kb": 286,
+  "mp4_kb": 385,
+  "crf_vp9": 38,
+  "crf_264": 29,
+  "poster": [
+   480,
+   720
+  ],
+  "lqip": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAAAQBQCdASoYACAAPu1iqE2ppaOiMAgBMB2JYgC1F6ABSk7urR51dn1pdsf6yNZSr+4AAP7uoZfpo+PwANNTCzBHce1aoVRxEPsDdVk86XKbqZfOMLOE/OF34PjSCutbwDaAaKEUXwKlx2XK45jyx7sWtnHWpgFCPo3bGWx0HZ7pE6qeOaEc/NQ97CRIf4Eq1NbqKeNeRaX308K6JRcxxV40x7NLCFFLAFgrVPJgAAA=",
+  "cor": "#615940"
+ },
+ "instituto-sala-de-espera-poltronas-faixa": {
+  "origem": "_brief/v2/midia-candidata/video/sala-de-espera-poltronas-980x1080-2s.mp4",
+  "largura": 960,
+  "altura": 460,
+  "duracao": 7.97,
+  "webm_kb": 211,
+  "mp4_kb": 229,
+  "crf_vp9": 38,
+  "crf_264": 29,
+  "poster": [
+   480,
+   960
+  ],
+  "lqip": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAABQBACdASoYAAwAPu1kqU4ppaOiMAgBMB2JYgCdMoGv/gPcuOXf6tVUIqUAAP7LY4KwZ07enYyuEjPCU3/8XEdx4OMse4zrGxRdXr9SvFmLSqqr6ut6cd23XZ/naN73ynhMd61mayz2I6puL7kQ5PyYGjAAAA==",
+  "cor": "#A89376"
+ },
+ "ecoville-vista-aerea-avenida-loop": {
+  "origem": "_brief/v2/midia-candidata/video/drone-ecoville-avenida-mata-1920x900-15s.mp4",
+  "largura": 1280,
+  "altura": 600,
+  "duracao": 7.17,
+  "webm_kb": 426,
+  "mp4_kb": 382,
+  "crf_vp9": 57,
+  "crf_264": 39,
+  "poster": [
+   480,
+   1280
+  ],
+  "lqip": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADQAwCdASoYAAsAPu1iqk4ppaQiMAgBMB2JQBibA+nvmFI9YTD9PAAA/motQp0WeDvins+vErcsKFitgSVcencDgOqicwETpoXmKwNo7XTtozgIA2NROFtGx7RTbfZbvU0s49yT2RQAAA==",
+  "cor": "#626059"
+ },
+ "dr-sharbo-casagrande-consultorio-aceno": {
+  "origem": "_brief/v2/midia-candidata/video/dr-sharbo-mesa-acenando-1100x860-3s.mp4",
+  "largura": 960,
+  "altura": 750,
+  "duracao": 3.2,
+  "webm_kb": 95,
+  "mp4_kb": 163,
+  "crf_vp9": 38,
+  "crf_264": 29,
+  "poster": [
+   480,
+   960
+  ],
+  "lqip": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAABQBACdASoYABMAPu1krU4ppaSiKA1RMB2JZQC/7AxsVYgVzJBHF+Gd+jaMAP7r/nzbH3E9vI84fJCy/Wz8MiixG5jxXg3LhZF6YNX+ae1lMriSFNpuyNOh0vvI/VBZcAA=",
+  "cor": "#4B4334"
+ }
+}

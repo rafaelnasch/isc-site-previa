@@ -1,0 +1,80 @@
+
+
+
+:where(.pg-saude-integrada) .abertura-midia :is(img,video){ --origem:62% 60%; }
+:where(.pg-saude-integrada) .tela-foto-autor .id-medica{ font:inherit; letter-spacing:inherit; color:inherit; }
+
+
+:where(.pg-saude-integrada) .quatro{ display:grid; grid-template-columns:repeat(4,minmax(0,1fr)); border-top:1px solid var(--f-fio-destaque); }
+:where(.pg-saude-integrada) .quatro-item{ display:grid; align-content:start; gap:var(--e-3); padding:var(--e-6) var(--e-5) var(--e-6) 0; }
+:where(.pg-saude-integrada) .quatro-item + .quatro-item{ padding-left:var(--e-5); border-left:1px solid var(--f-fio); }
+:where(.pg-saude-integrada) .quatro-n{ font:400 40px/1 var(--display); color:var(--f-enfase); }
+:where(.pg-saude-integrada) .quatro-item h3{ font-size:var(--t-h3); line-height:1.1; }
+:where(.pg-saude-integrada) .quatro-pergunta{ font:400 italic clamp(20px,.5vw + 16px,23px)/1.35 var(--enfase); color:var(--f-enfase); }
+:where(.pg-saude-integrada) .quatro-item p:not(.quatro-pergunta){ font-size:var(--t-apoio); line-height:1.65; color:var(--f-texto); }
+:where(.pg-saude-integrada) .habitos-base{ display:grid; grid-template-columns:repeat(12,minmax(0,1fr)); column-gap:var(--calha); row-gap:var(--e-6); align-items:start; margin-top:var(--e-8); }
+:where(.pg-saude-integrada) .habitos-medico{ grid-column:1 / span 5; display:grid; grid-template-columns:96px minmax(0,1fr); gap:var(--e-5); align-items:start; }
+:where(.pg-saude-integrada) .habitos-medico img{ width:96px; height:128px; object-fit:cover; object-position:50% 20%; filter:saturate(.85) sepia(.05); }
+:where(.pg-saude-integrada) .habitos-medico .rotulo{ display:block; margin-bottom:var(--e-2); }
+:where(.pg-saude-integrada) .habitos-medico .id-medica{ font-size:13px; color:var(--f-titulo); }
+:where(.pg-saude-integrada) .habitos-base .nota{ grid-column:7 / -1; }
+@media (max-width:1024px){
+  :where(.pg-saude-integrada) .quatro{ grid-template-columns:repeat(2,minmax(0,1fr)); }
+  :where(.pg-saude-integrada) .quatro-item:nth-child(3){ padding-left:0; border-left:0; }
+  :where(.pg-saude-integrada) .quatro-item:nth-child(n+3){ border-top:1px solid var(--f-fio); }
+  :where(.pg-saude-integrada) :is(.habitos-medico,.habitos-base .nota){ grid-column:1 / -1; }
+}
+@media (max-width:640px){
+  :where(.pg-saude-integrada) .quatro{ grid-template-columns:minmax(0,1fr); }
+  :where(.pg-saude-integrada) .quatro-item,
+  :where(.pg-saude-integrada) .quatro-item + .quatro-item{ padding:var(--e-5) 0; border-left:0; }
+  :where(.pg-saude-integrada) .quatro-item + .quatro-item{ border-top:1px solid var(--f-fio); }
+  :where(.pg-saude-integrada) .habitos-medico{ grid-template-columns:72px minmax(0,1fr); gap:var(--e-4); }
+  :where(.pg-saude-integrada) .habitos-medico img{ width:72px; height:96px; }
+}
+
+
+:where(.pg-saude-integrada) .equipe{ display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:var(--calha); }
+:where(.pg-saude-integrada) .equipe-item{ display:grid; align-content:start; gap:var(--e-3); padding:var(--e-6); border:1px solid var(--f-fio); background:var(--f-painel); }
+:where(.pg-saude-integrada) .equipe-simbolo{ width:56px; height:56px; margin-bottom:var(--e-3); opacity:.85; }
+:where(.pg-saude-integrada) .equipe-retrato{ width:72px; height:96px; margin-bottom:var(--e-3); object-fit:cover; object-position:50% 20%; filter:saturate(.85) sepia(.05); }
+:where(.pg-saude-integrada) .equipe-item h3{ font-size:var(--t-h4); line-height:1.2; }
+:where(.pg-saude-integrada) .equipe-item p:not(.rotulo){ font-size:var(--t-apoio); line-height:1.6; color:var(--f-texto); }
+:where(.pg-saude-integrada) .equipe-reg .id-medica{ font-size:13px; color:var(--f-titulo); }
+:where(.pg-saude-integrada) .equipe-item .link-seta{ justify-self:start; }
+@media (max-width:1024px){ :where(.pg-saude-integrada) .equipe{ grid-template-columns:minmax(0,1fr); } :where(.pg-saude-integrada) .equipe-item{ padding:var(--e-5) var(--e-4); } }
+
+:where(.pg-saude-integrada) .irmas{ display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:var(--calha); margin-top:var(--e-9); }
+:where(.pg-saude-integrada) .irma{ display:grid; align-content:start; gap:var(--e-2); padding:var(--e-5); min-height:100%; border:1px solid var(--f-fio); background:var(--f-painel);
+  text-decoration:none; color:var(--f-texto); transition:border-color .3s ease; }
+:where(.pg-saude-integrada) .irma b{ font:400 clamp(24px,1vw + 16px,30px)/1.1 var(--display); color:var(--f-titulo); }
+:where(.pg-saude-integrada) .irma small{ font-size:var(--t-legenda); line-height:1.5; color:var(--f-apoio); }
+:where(.pg-saude-integrada) .irma small::after{ content:""; display:inline-block; width:16px; height:16px; margin-left:var(--e-2); vertical-align:-3px; background:var(--champanhe);
+  -webkit-mask:var(--ic-seta) center/contain no-repeat; mask:var(--ic-seta) center/contain no-repeat; transition:transform .3s var(--curva); }
+:where(.pg-saude-integrada) .irma:hover{ border-color:rgba(241,221,192,.45); }
+:where(.pg-saude-integrada) .irma:hover small::after{ transform:translateX(4px); }
+:where(.pg-saude-integrada) .irma:focus-visible{ outline:2px solid var(--champanhe); outline-offset:3px; }
+@media (max-width:820px){ :where(.pg-saude-integrada) .irmas{ grid-template-columns:minmax(0,1fr); margin-top:var(--e-8); } }
+
+:where(.pg-saude-integrada) .convite-in--form{ align-items:center; }
+:where(.pg-saude-integrada) .convite-in--form .convite-texto{ grid-column:1 / span 6; }
+:where(.pg-saude-integrada) .convite-in--form .form-caixa{ grid-column:8 / -1; }
+:where(.pg-saude-integrada) .convite-in--form .depois{ margin-top:var(--e-7); }
+@media (max-width:1024px){ :where(.pg-saude-integrada) .convite-in--form :is(.convite-texto,.form-caixa){ grid-column:1 / -1; } }
+@media (max-width:640px){
+  :where(.pg-saude-integrada) .convite-in--form .form-caixa{ padding:var(--e-6) var(--e-4) var(--e-5); }
+  :where(.pg-saude-integrada) .convite-topo{ flex-wrap:wrap; }
+  :where(.pg-saude-integrada) .convite-topo .rotulo{ overflow-wrap:normal; text-align:left; }
+}
+
+
+:where(.pg-saude-integrada) .so-homologacao{ display:none; }
+:where(.pg-saude-integrada.com-realce, .com-realce .pg-saude-integrada) .so-homologacao{ display:revert; }
+
+
+
+@media (max-width:820px){ :where(.pg-saude-integrada) .abertura-midia :is(img,video){ --escala:1.16; --origem:100% 60%; } }
+
+@media (max-width:360px){ :where(.pg-saude-integrada) .abertura h1.display{ font-size:clamp(1.9rem,10.2vw,2.4rem); } }
+
+:where(.pg-saude-integrada) .tela-foto > picture img{ filter:grayscale(1) sepia(.55) saturate(1.2) brightness(.62) contrast(1.15)!important; }

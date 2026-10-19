@@ -1,0 +1,105 @@
+
+
+
+
+:where(.pg-corpo-clinico) .abertura .abertura-titulo{ font-size:var(--t-abertura); }
+:where(.pg-corpo-clinico) .abertura .abertura-lead{ margin-top:var(--e-5); }
+:where(.pg-corpo-clinico) .abertura .botoes{ margin-top:var(--e-6); }
+
+:where(.pg-corpo-clinico) figure > picture{ display:block; width:100%; height:100%; }
+:where(.pg-corpo-clinico) .tela-foto-frase{ font:400 var(--t-citacao)/1.14 var(--display); color:var(--branco); max-width:22ch; text-wrap:balance; }
+:where(.pg-corpo-clinico) .tela-foto-frase em{ color:var(--champanhe)!important; background:none!important; -webkit-text-fill-color:var(--champanhe)!important; }
+
+
+:where(.pg-corpo-clinico) .passeio--fixo .passeio-cab{ margin-bottom:var(--e-6); }
+:where(.pg-corpo-clinico) .passeio--fixo .passeio-cab h2{ font-size:clamp(34px,1.8vw + 20px,54px); max-width:24ch; }
+:where(.pg-corpo-clinico) .passeio--fixo .passeio-foto{ height:min(56svh,580px); }
+:where(.pg-corpo-clinico) .convite-final--form{ align-items:stretch; }
+:where(.pg-corpo-clinico) .convite-final--form .convite-in{ align-items:center; }
+:where(.pg-corpo-clinico) .convite-final--form .convite-texto{ grid-column:1 / span 5; }
+:where(.pg-corpo-clinico) .convite-final--form .form-caixa{ grid-column:7 / -1; min-width:0; }
+:where(.pg-corpo-clinico) .convite-final--form .convite-texto .depois{ margin-top:var(--e-7); }
+:where(.pg-corpo-clinico) .convite-final--form .depois > li{ color:var(--branco-quente); }
+@media (max-width:1024px){
+  :where(.pg-corpo-clinico) .convite-final--form .convite-texto,:where(.pg-corpo-clinico) .convite-final--form .form-caixa{ grid-column:1 / -1; }
+}
+@media (max-width:640px){
+  :where(.pg-corpo-clinico) .convite-final--form .form-caixa.convite{ margin-inline:calc(var(--e-2) * -1); }
+}
+
+
+:where(.pg-corpo-clinico) .cc-abertura{ position:relative; isolation:isolate; overflow:hidden; padding:calc(var(--topo-h) + var(--e-8)) 0 var(--e-9); min-height:max(640px,min(86svh,900px)); display:flex; align-items:center; }
+:where(.pg-corpo-clinico) .cc-abertura .abertura-luz{ z-index:2; }
+:where(.pg-corpo-clinico) .cc-abertura-in{ display:grid; grid-template-columns:repeat(12,minmax(0,1fr)); column-gap:var(--calha); row-gap:var(--e-8); align-items:center; }
+:where(.pg-corpo-clinico) .cc-abertura-texto{ grid-column:1 / span 6; }
+:where(.pg-corpo-clinico) .cc-abertura .hero-migalha{ margin-bottom:var(--e-5); }
+:where(.pg-corpo-clinico) .cc-abertura .abertura-titulo{ font-size:var(--t-abertura); line-height:1.04; margin-top:var(--e-4); max-width:15ch; }
+:where(.pg-corpo-clinico) .cc-abertura .abertura-lead{ margin-top:var(--e-5); max-width:34em; color:var(--branco-quente); }
+:where(.pg-corpo-clinico) .cc-abertura .botoes{ margin-top:var(--e-6); }
+:where(.pg-corpo-clinico) .mosaico{ grid-column:8 / -1; display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:var(--e-4); }
+:where(.pg-corpo-clinico) .mosaico-item{ position:relative; overflow:hidden; aspect-ratio:4/5; }
+:where(.pg-corpo-clinico) .mosaico-item:nth-child(even){ margin-top:var(--e-8); margin-bottom:calc(var(--e-8) * -1); }
+:where(.pg-corpo-clinico) .mosaico-item img{ position:absolute; inset:0; width:100%; height:100%; object-fit:cover; object-position:var(--foco,50% 25%); filter:saturate(.85) sepia(.06); }
+:where(.pg-corpo-clinico) .mosaico-item::after{ content:""; position:absolute; inset:0; background:var(--sombra-leitura); pointer-events:none; }
+:where(.pg-corpo-clinico) .mosaico-nome{ position:absolute; left:var(--e-3); right:var(--e-3); bottom:var(--e-3); z-index:1; font:500 12px/1.4 var(--texto); letter-spacing:.06em; color:var(--branco); }
+@media (max-width:1024px){
+  :where(.pg-corpo-clinico) .cc-abertura-texto,:where(.pg-corpo-clinico) .mosaico{ grid-column:1 / -1; }
+  :where(.pg-corpo-clinico) .mosaico{ grid-template-columns:repeat(4,minmax(0,1fr)); gap:var(--e-3); }
+  :where(.pg-corpo-clinico) .mosaico-item:nth-child(even){ margin-top:var(--e-5); margin-bottom:calc(var(--e-5) * -1); }
+}
+@media (max-width:640px){
+  :where(.pg-corpo-clinico) .cc-abertura{ padding-top:calc(var(--topo-h) + var(--e-6)); min-height:0; }
+  :where(.pg-corpo-clinico) .mosaico{ grid-template-columns:repeat(2,minmax(0,1fr)); }
+  :where(.pg-corpo-clinico) .mosaico-item:nth-child(even){ margin-top:var(--e-6); margin-bottom:calc(var(--e-6) * -1); }
+  :where(.pg-corpo-clinico) .cc-abertura .botoes .btn{ flex:1 1 100%; }
+}
+
+
+:where(.pg-corpo-clinico) .medico-destaque .sec-kicker .cc-num{ font-family:var(--display); font-size:22px; letter-spacing:0; margin-right:var(--e-2); }
+:where(.pg-corpo-clinico) .medico-destaque .ficha-tec dd a,:where(.pg-corpo-clinico) .medico-cartao .ficha-tec dd a,:where(.pg-corpo-clinico) .medico-linha a:not(.link-seta){ color:var(--f-titulo); }
+:where(.pg-corpo-clinico) .medico-destaque.cc-esmaecido .medico-destaque-in{ opacity:.35; }
+
+
+:where(.pg-corpo-clinico) .cc-filtro{ display:flex; flex-wrap:wrap; gap:var(--e-2); margin-bottom:var(--e-4); }
+:where(.pg-corpo-clinico) .cc-filtro button{ min-height:44px; padding:0 var(--e-4); border:1px solid var(--f-fio-destaque); border-radius:999px; font:500 13px/1.2 var(--texto); color:var(--f-titulo); background:transparent; transition:background var(--d-dissolve) var(--curva-saida),color var(--d-dissolve) var(--curva-saida); }
+:where(.pg-corpo-clinico) .cc-filtro button:hover{ border-color:var(--f-titulo); }
+:where(.pg-corpo-clinico) .cc-filtro button[aria-pressed="true"]{ background:var(--preto); border-color:var(--preto); color:var(--marfim); }
+:where(.pg-corpo-clinico) .cc-filtro-res{ min-height:1.6em; margin-bottom:var(--e-6); font-size:var(--t-apoio); color:var(--f-texto); }
+:where(.pg-corpo-clinico) .cc-filtro-res a{ color:var(--f-titulo); }
+:where(.pg-corpo-clinico) .medicos-cartoes{ display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); column-gap:var(--calha); row-gap:var(--e-8); }
+:where(.pg-corpo-clinico) .medico-cartao{ min-width:0; transition:opacity var(--d-dissolve) var(--curva-saida); }
+:where(.pg-corpo-clinico) .medico-cartao.cc-esmaecido,:where(.pg-corpo-clinico) .medico-linha.cc-esmaecido{ opacity:.28; }
+:where(.pg-corpo-clinico) .medico-cartao-foto{ position:relative; margin:0; overflow:hidden; aspect-ratio:4/5; background:var(--f-painel); }
+:where(.pg-corpo-clinico) .medico-cartao-foto img{ width:100%; height:100%; object-fit:cover; object-position:var(--foco,50% 25%); filter:saturate(.85) sepia(.05); transition:transform 1.2s var(--curva); }
+:where(.pg-corpo-clinico) .medico-cartao:hover .medico-cartao-foto img{ transform:scale(1.03); }
+:where(.pg-corpo-clinico) .medico-cartao-texto{ padding-top:var(--e-5); }
+:where(.pg-corpo-clinico) .medico-cartao .id-medica{ margin-top:var(--e-3); font-size:15px; color:var(--f-titulo); }
+:where(.pg-corpo-clinico) .medico-cartao .ficha-tec{ margin-top:var(--e-5); }
+:where(.pg-corpo-clinico) .medico-cartao .link-seta{ margin-top:var(--e-3); }
+
+:where(.pg-corpo-clinico) .medico-linha{ margin-top:var(--e-9); padding-top:var(--e-5); border-top:1px solid var(--f-fio-destaque); transition:opacity var(--d-dissolve) var(--curva-saida); }
+:where(.pg-corpo-clinico) .medico-linha .id-medica{ margin-top:var(--e-3); font-size:15px; color:var(--f-titulo); }
+:where(.pg-corpo-clinico) .medico-linha-atende{ margin-top:var(--e-2); display:flex; flex-wrap:wrap; align-items:center; gap:0 var(--e-5); font-size:var(--t-apoio); color:var(--f-texto); }
+@media (max-width:1024px){ :where(.pg-corpo-clinico) .medicos-cartoes{ grid-template-columns:repeat(2,minmax(0,1fr)); } }
+@media (max-width:640px){ :where(.pg-corpo-clinico) .medicos-cartoes{ grid-template-columns:minmax(0,1fr); } :where(.pg-corpo-clinico) .medico-cartao-foto{ aspect-ratio:1/1; } }
+
+
+:where(.pg-corpo-clinico) #saude-integrada .lista-ed b{ font-weight:600; color:var(--champanhe); }
+
+
+:where(.pg-corpo-clinico){ --pg-mono:grayscale(1) sepia(.55) saturate(1.15) brightness(.8) contrast(1.06); --pg-retrato:grayscale(.2) sepia(.2) saturate(.85) contrast(1.04) brightness(.97); }
+
+:where(.pg-corpo-clinico) .mosaico-item img,:where(.pg-corpo-clinico) .medico-cartao-foto img,:where(.pg-corpo-clinico) .medico-destaque-retrato img{ filter:var(--pg-retrato); }
+:where(.pg-corpo-clinico) .mosaico-item::after{ background:linear-gradient(to top,rgba(18,19,20,.82) 0%,rgba(18,19,20,.2) 34%,rgba(18,19,20,0) 55%); }
+
+:where(.pg-corpo-clinico) .mosaico-nome{ font:500 14px/1.35 var(--texto); letter-spacing:0; left:var(--e-4); right:var(--e-4); bottom:var(--e-4); }
+@media (max-width:640px){ :where(.pg-corpo-clinico) .mosaico-nome{ font-size:13px; left:var(--e-3); right:var(--e-3); bottom:var(--e-3); } }
+
+:where(.pg-corpo-clinico) .medico-cartao-placa{ display:flex; flex-direction:column; justify-content:flex-end; gap:var(--e-3); padding:var(--e-6); background:var(--preto); }
+:where(.pg-corpo-clinico) .medico-cartao-placa::before{ content:""; width:1px; flex:1 1 auto; max-height:45%; margin-bottom:auto; background:var(--ouro-degrade); }
+:where(.pg-corpo-clinico) .placa-area{ font:500 var(--t-rotulo)/1.4 var(--texto); letter-spacing:var(--track); text-transform:uppercase; color:var(--fumaca); }
+:where(.pg-corpo-clinico) .placa-nome{ font:400 clamp(30px,1.6vw + 18px,44px)/1.08 var(--display); color:var(--branco); }
+:where(.pg-corpo-clinico) .placa-nome em{ font-family:var(--enfase); font-style:italic; color:var(--champanhe)!important; background:none!important; -webkit-text-fill-color:var(--champanhe)!important; }
+@media (min-width:1025px){ :where(.pg-corpo-clinico) .medicos-cartoes{ grid-template-columns:repeat(4,minmax(0,1fr)); } }
+
+:where(.pg-corpo-clinico) .tela-foto--mono img{ filter:var(--pg-mono); }

@@ -1,0 +1,53 @@
+
+
+
+:where(.pg-404) .nf-abre{ position:relative; min-height:max(640px,86svh); display:flex; align-items:center; padding:calc(var(--topo-h) + var(--e-8)) 0 var(--e-9);
+  background:radial-gradient(60% 50% at 78% 100%,rgba(195,121,28,.10),rgba(18,19,20,0) 70%),var(--preto); }
+:where(.pg-404) .nf-grade{ width:100%; display:grid; grid-template-columns:repeat(12,minmax(0,1fr)); column-gap:var(--calha); row-gap:var(--e-7); align-items:center; }
+:where(.pg-404) .nf-texto{ grid-column:1 / span 7; }
+:where(.pg-404) .nf-titulo{ margin-top:var(--e-4); font-size:var(--t-abertura); line-height:1.04; max-width:12ch; }
+:where(.pg-404) .nf-resposta{ margin-top:var(--e-6); max-width:34em; color:var(--branco-quente); }
+:where(.pg-404) .nf-resposta strong{ color:var(--branco); }
+:where(.pg-404) .nf-botoes{ margin-top:var(--e-7); }
+:where(.pg-404) .nf-fio{ grid-column:9 / span 3; position:relative; justify-self:center; height:min(60svh,560px); aspect-ratio:240/720; }
+:where(.pg-404) .nf-fio :is(img,video){ position:absolute; inset:0; width:100%; height:100%; object-fit:contain; }
+:where(.pg-404) .nf-fio video{ opacity:0; }
+:where(.pg-404) .nf-fio.ob-fio--anima img{ opacity:0; }
+:where(.pg-404) .nf-fio.ob-fio--tocando video{ opacity:1; }
+@media (max-width:1024px){ :where(.pg-404) .nf-texto{ grid-column:1 / span 8; } :where(.pg-404) .nf-fio{ grid-column:10 / -1; height:min(46svh,400px); } }
+@media (max-width:640px){
+  :where(.pg-404) .nf-abre{ min-height:0; padding-top:calc(var(--topo-h) + var(--e-5)); }
+  :where(.pg-404) .nf-texto{ grid-column:1 / -1; }
+  
+  :where(.pg-404) .nf-fio{ display:none; }
+  :where(.pg-404) .nf-botoes .btn{ flex:1 1 100%; }
+}
+
+
+:where(.pg-404) .nf-grupos{ display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); column-gap:var(--calha); row-gap:var(--e-8); }
+:where(.pg-404) .nf-grupo > .rotulo{ display:block; padding-bottom:var(--e-3); border-bottom:1px solid var(--f-fio-destaque); }
+:where(.pg-404) .nf-grupo a{ display:grid; grid-template-columns:minmax(0,1fr) 20px; column-gap:var(--e-3); row-gap:var(--e-1); padding:var(--e-4) 0; border-bottom:1px solid var(--f-fio); text-decoration:none; }
+:where(.pg-404) .nf-grupo a::after{ content:""; grid-column:2; grid-row:1 / span 2; align-self:center; width:20px; height:20px; background:var(--f-enfase); -webkit-mask:var(--ic-seta) center/contain no-repeat; mask:var(--ic-seta) center/contain no-repeat; transition:transform .3s var(--curva); }
+:where(.pg-404) .nf-grupo a:hover::after{ transform:translateX(4px); }
+:where(.pg-404) .nf-grupo b{ font:400 24px/1.2 var(--display); color:var(--f-titulo); }
+:where(.pg-404) .nf-grupo small{ font-size:var(--t-legenda); line-height:1.5; color:var(--f-apoio); }
+:where(.pg-404) .nf-base{ display:flex; flex-wrap:wrap; justify-content:space-between; align-items:center; gap:var(--e-3) var(--e-6); margin-top:var(--e-9); padding-top:var(--e-5); border-top:1px solid var(--f-fio); font-size:var(--t-apoio); color:var(--f-texto); }
+:where(.pg-404) .nf-base-links{ display:flex; flex-wrap:wrap; align-items:center; gap:var(--e-1) var(--e-3); }
+:where(.pg-404) .nf-base-links a{ display:inline-flex; align-items:center; min-height:44px; color:var(--f-titulo); text-underline-offset:4px; }
+@media (max-width:1024px){ :where(.pg-404) .nf-grupos{ grid-template-columns:repeat(2,minmax(0,1fr)); } }
+@media (max-width:640px){ :where(.pg-404) .nf-grupos{ grid-template-columns:minmax(0,1fr); row-gap:var(--e-7); } }
+
+
+
+:where(.pg-404) .prancha-lugar{ grid-column:9 / -1; grid-row:1; position:relative; margin:0; justify-self:end; width:100%; max-width:380px; aspect-ratio:4/5; overflow:hidden; background:var(--noite); }
+:where(.pg-404) .prancha-lugar :is(picture,img){ position:absolute; inset:0; width:100%; height:100%; object-fit:cover; object-position:50% 70%; filter:var(--filtro-abertura); }
+:where(.pg-404) .prancha-lugar::after{ content:""; position:absolute; inset:0; background:linear-gradient(to top,rgba(18,19,20,.55),rgba(18,19,20,0) 45%); }
+:where(.pg-404) .nf-fio{ grid-column:8 / span 2; grid-row:1; justify-self:end; z-index:1; }
+@media (max-width:1024px){
+  :where(.pg-404) .prancha-lugar{ grid-column:10 / -1; }
+  :where(.pg-404) .nf-fio{ grid-column:9 / span 1; }
+}
+@media (max-width:640px){ :where(.pg-404) .prancha-lugar{ display:none; } }
+
+:where(.pg-404) .barra-cta{ display:none!important; }
+@media (max-width:1024px){ body:where(.pg-404){ padding-bottom:0; } }
