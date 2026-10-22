@@ -84,8 +84,8 @@
  },
  "mulher-42-rindo-cafe-amiga": {
   "origem": "_fotos/brutas/mulher-42-rindo-cafe-amiga.png",
-  "largura": 1536,
-  "altura": 1024,
+  "largura": 2496,
+  "altura": 1664,
   "webp": [
    480,
    960,
@@ -97,13 +97,13 @@
    1600
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZgCdMoM6AEmnWlrRyfvJUvY2hUAA/uybvpIcNOX6hR7/9i+WjJqMIFHZfRBj8bw2gQDgIW8vm8m22XUxjA5gNuVLCvTUowqptWQn0GRc1biLHJEuuvctMbg130Z4exUO7OHhJxF3XkrGm3dwwFV04N2cPWXmiSAAAA==",
-  "cor": "#583A26"
+  "lqip": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAABQBACdASoYABAAPu1iqk2ppaQiMAgBMB2JYgCdMoAltxeWP+hhrdPa+fWAAP7yqR0xonFRHzrhsoYnfuziQbQjihAViOooHWtez0R9WEKVSUSbrD84+qAoD+Lzd5UTY9PXgAsfiRry/vuAPQFK+RA3GU2rWfXnjuVz/uf8hQD4Ktm+FDne0NR8OpAt3vRQfs5bB/OvkXgsgAAA",
+  "cor": "#5B412D"
  },
  "mulher-55-caminhada-fone-praca": {
   "origem": "_fotos/brutas/mulher-55-caminhada-fone-praca.png",
-  "largura": 1536,
-  "altura": 1024,
+  "largura": 2496,
+  "altura": 1664,
   "webp": [
    480,
    960,
@@ -115,13 +115,13 @@
    1600
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAABQBACdASoYABAAPu1kqk2ppaQiMAgBMB2JYgCdMoAKRqUNMzlmwET4yb+AAP79niTOrrdyyfwDQFm3tVWlG1LrCILduy2XMHCNUFCHiaxhsV2SBkN/gNQIDKMII3UesGDIt2cOPPl22GFgV+oQv06CNyLTRC6nqCNsAAAA",
-  "cor": "#634B36"
+  "lqip": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAADwAwCdASoYABAAPu1yrU+pp6QiMAgBMB2JQBdgBCoeE0rbv/dH+r8oAP7yqfIBJMe2Rka3kpk+LCj7+Khed+pyGWxGXZTwyT/ByzUXZegjMnB/a9vWPgYQtJyvkPK6sXj6epG/QB0Y1pVBdT0bBZKFor7aBBHDAAA=",
+  "cor": "#423424"
  },
  "mulher-44-caminhando-vestido-linho": {
   "origem": "_fotos/brutas/mulher-44-caminhando-vestido-linho.png",
-  "largura": 1536,
-  "altura": 1024,
+  "largura": 2496,
+  "altura": 1664,
   "webp": [
    480,
    960,
@@ -133,13 +133,13 @@
    1600
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQBACdASoYABAALrV2u12jqampiYC0SxAEAACL5vXa/5zcgWNyMt1gAAD++E5wHEAdmcr6qVzubyaOJ+D4Pne261IAp0/RYbZ8ob6vBeYOntFq0xMm3Uy+3ymQ1uUARpjfiKxpuz3QaWPF21AwbpMAKQAAAA==",
-  "cor": "#584934"
+  "lqip": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAADwAwCdASoYABAAPu1mqk4ppaOiMAgBMB2JQBOgAx2MdVNaFKApfObAAP7ytJVPcpDQ1RVF98nenbNYjpkinNvyzPdfIyQ3nvggLOEX6Kzq+Mhby47uwoxmc8ZotgcQXlVLMWzhhRnS9l3bhiD6nkYM4bFYfWNa5WZTSfNFccKjk+o75HgUsAAA",
+  "cor": "#544637"
  },
  "mulher-44-caminhando-vestido-linho-vertical": {
   "origem": "_fotos/brutas/mulher-44-caminhando-vestido-linho-vertical.png",
-  "largura": 1024,
-  "altura": 1536,
+  "largura": 1109,
+  "altura": 1664,
   "webp": [
    480,
    960
@@ -149,13 +149,13 @@
    960
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRtYAAABXRUJQVlA4IMoAAADQBQCdASoYACQAPu1srlGppaQipWsxMB2JQBWGbbAjcBfSEMoTj3GiibjHiZaIf+Ue07J8BejgAP7cz/XRWWRUxQx6HkTyvaXsFeUZdfrpkpuPWkB1NW4xwFHgz+I7J7JePeMP+6Dwndiihd1QvVRSpCHX0SnWybtd21xYJ3F/CVTVcUjj/sjdrZBnNdEqcOQzgosRlaeg8Itv17Tcz7Jpub8N44r7lWhthtdkAHzNRrSMGpwQFgYZisDg59HE6qXN9SvsRS1GBAAA",
-  "cor": "#57422E"
+  "lqip": "data:image/webp;base64,UklGRhoBAABXRUJQVlA4IA4BAAAwBwCdASoYACQAPu1srlIppaQiqrgIATAdiUAVJN7o3Ew8C0smwTEXICav/eAe1eaWnDad1/UbobCvPq7EH0pHxwAA9mBEiyoulvkFJk1lxpbE+YrjXqtQjzoLD0PZSPdIET8xnii/0ofyuawGy214cENZ0Z+KffvwK5Olt5W0GYbDx+06CgPe7zMJcBApZ8dHX0cShHwAyTY7LzjEC8xFC4cZvYo9jnyCd6EK2Vcqq+1UCMaKnvVEF4rk5pDLcBvvXtJRakCAxPHXprH7wRyBnOwo+T8nCND/U9ivcNOSjugrFTMI4AumvDO+hbZKgUne78a6yQjYLApQfPvdWppojX9ynoW0o5XkNaRmAAA=",
+  "cor": "#786450"
  },
  "mulher-42-rindo-cafe-amiga-vertical": {
   "origem": "_fotos/brutas/mulher-42-rindo-cafe-amiga-vertical.png",
-  "largura": 1024,
-  "altura": 1536,
+  "largura": 1109,
+  "altura": 1664,
   "webp": [
    480,
    960
@@ -165,13 +165,13 @@
    960
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRtoAAABXRUJQVlA4IM4AAAAQBwCdASoYACQAPu1cq02ppKQiMBqqqTAdiWIAs7NrTjgGiCab8VaaWXpYswiKGAyXpt4JoXmvi48ciZkZtml5AAD+8N+mF+TpzoeSasUVKPsU2YcrDpLtHHwoRU8LGgwJdUKCwKSpV7Qq4Dwu5/OmKMGw+lt8eUAMpuvv6VU5Gltthcz0CtHk15ZSLMV1pltWVyfCDyKWQwGCYGoJsgWK5plqjyuO9GHssPOV8w0eonK6koRRD0kJDWBFkL3eO3var2MEVEKBnB1kY2bAAA==",
-  "cor": "#603C27"
+  "lqip": "data:image/webp;base64,UklGRjYBAABXRUJQVlA4ICoBAAAwBwCdASoYACQAPu1kq04ppaQiKqwBMB2JYgCnNTPkjGzSLUCECNgtWpBNFhjO9Ygxe298QDtPZwyef2o/H3RhAoAA9Z0mA4rErJh+2K2cWiitXargSjvjY4nwBsmbv9rrq5o2HYPOV9/9Zoj/nrXOXVkN7eMVVRYnRcWoSafqG3YjUXss3upm0XYA26ADqlA9I3UUtqgcHjmPPbNvpkAc6s939GrviXu5XUPIYzBiEWt5LRVne0/+Z+m8Ibqo027FnTLROXzUXvj3ehzuSof+QFRMxBR6fWJ7OCs+yKmE3vBlhSCiB1AnesZQlIWeSwaQDBEUHaAmXxnehR1ekPtUHoVq2PBUCHPwNh7VM3KFiTqtybp4QdUV3gnF9Tg7kKC5iINf1Q4QQAAA",
+  "cor": "#795940"
  },
  "homem-56-trilha-leve": {
   "origem": "_fotos/brutas/homem-56-trilha-leve.png",
-  "largura": 1536,
-  "altura": 1024,
+  "largura": 2496,
+  "altura": 1664,
   "webp": [
    480,
    960,
@@ -183,13 +183,13 @@
    1600
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZgCdMoMnJCfjeWP/DBe5eO+AAP7ypr7P7x/vmq9y2l/TcQYN1vg6Op5QqDaQt6F1FNQvoJBonLeN56s3d2XSpZbrhoOAcPI5cIzzssnRHxBMI1xVlwJ9Vv0jJ8AA",
-  "cor": "#58482B"
+  "lqip": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZgC06BjHaTTJ2ORuMzpzgAD+8rPbohRARvLK7INFgcyycMclUzi0AYtdjFNZewVLZ9MWc6LuFHX7BMQG6tQovhMGq//TKDnazWeeqrG4lJBsa9SIYnDWQkRcv7ic4T28rYEvOjSkqsZ1yd3+JWQVVVEE0HrjAAA=",
+  "cor": "#5A4727"
  },
  "homem-56-trilha-leve-vertical": {
   "origem": "_fotos/brutas/homem-56-trilha-leve-vertical.png",
-  "largura": 1024,
-  "altura": 1536,
+  "largura": 1109,
+  "altura": 1664,
   "webp": [
    480,
    960
@@ -199,45 +199,49 @@
    960
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAAAwBgCdASoYACQAPu1oq0+ppiOiKqoBMB2JQBbCggNzowt/imJDx1dxeLJW9LKwfjdTGlwfHmykr6EAAP6X2Qzfyz6gvPAwseZ3wyCIIzukliqPTHHW07YP78rqraqBOe7mJN6ux/OteKdqbuKBCtwtN0Re/IVfFwSnB85jPWw+woXTcGtgnAWdLpnx2CGshvPItcUjJ2cYqarENUvAyITgzZNJTW79V6OWTF7P6i+Crngr3ExBHepg4kHZTKmAAAA=",
-  "cor": "#5E4C37"
+  "lqip": "data:image/webp;base64,UklGRkABAABXRUJQVlA4IDQBAAAQBwCdASoYACQAPu1kqlCppSOiqrgMATAdiWQAqSc9xEhAmWBna3qhDAh3Xp9HznG2P/4uvpwviHWk37P1JQ7xoAD4Mowd+DWlH2QwIjmqNtjOf+WpB4cHfeeMvt3gCfHgK5USs1HTPk4VdIeeLpbcnI4iN/s1BlZ+bxwXjF/EBic0S+izt7CDT542c68r7Wq2RoXYtQOVn1I+r+d+sgdSWMNyMTVvED5VKh+yeYdVEceeL411iSQ4/MoXyat6eWOM07im1WRq8M6n+PH0qkqncOn+FCcQdW6XvEgeVRpjgJI0eyzaZy3qUj/8f5bO31ZmEjcq/Ug252dqQOvctwjmpZ0w17vN9uxEB54st+nYg8bA2zI6gVGssrrsgLsu27qpml21AoLjx9j+n5ccSXo4KegAAA==",
+  "cor": "#745B34"
  },
  "mulher-60-saindo-fim-de-tarde": {
   "origem": "_fotos/brutas/mulher-60-saindo-fim-de-tarde.png",
-  "largura": 1024,
-  "altura": 1536,
+  "largura": 2496,
+  "altura": 1664,
   "webp": [
    480,
-   960
+   960,
+   1600
   ],
   "avif": [
    480,
-   960
+   960,
+   1600
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAAAwBgCdASoYACQAPu1qqE8ppiOiKqwBMB2JQBZZgoN6EwMj1AFUfbA8aXKdM1GBWM2ZjA+uUCL6l7r4AP7d+nt7ddqZ16xoETKhVaqZCSkv11PJF/8x5jXbEn8BTP0tZVzbKag2takBcUpcvRx24Mm9dXnryULfpY3J5SeoIFd8fXPCKrAkZjlfGUYAu/IgB20UvFfZX/VnlQ0s5S3NhEUTEp8PC307jqXWFewA",
-  "cor": "#57412C"
+  "lqip": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQBACdASoYABAAPu1kqk4ppaQiMAgBMB2JZQC06Glw0dslAc6rqfouYAD+/kr3XhV3wp6D2sV+wth2zS9TMexqxpGgboM3o3VeP739fHgxtwsCqXAm2/ith3RH5a8qFHUeb+Jj8F5POZhvEvIhpGAA",
+  "cor": "#2B2622"
  },
  "homem-62-aguardando-lendo": {
   "origem": "_fotos/brutas/homem-62-aguardando-lendo.png",
-  "largura": 1024,
-  "altura": 1536,
+  "largura": 2496,
+  "altura": 1664,
   "webp": [
    480,
-   960
+   960,
+   1600
   ],
   "avif": [
    480,
-   960
+   960,
+   1600
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAAAQBgCdASoYACQAPu1krk+ppSQiKrgMATAdiWMAwNxF7pYLH54eG4988EaBuoxtUfa1UOsw41SgwAAA/vaRvnMuMVXwEXEIXtMPmgDHYELhczxRXGAr1+Fk66nE8w89MrMZeqmpcXVhcMxbbCqTEpr5A0ui5acSualklaglSfEasfZmTi4PUXMAbiG2fSkvYiIbdML34ux841vpEOH1y6QgCrY1YbqBP3NQAAAA",
-  "cor": "#403325"
+  "lqip": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAADwAwCdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOmUAFIYwIJW7TrBuYAAP797DI34KldPHPJaXYpeRcwZ3r7jM1Eu/az1Br5puDRqlQsFnzAxRr1lnzC9kWWC17RwtXXeUigjDQAV99wvAWT6UQS9sVpzV5oAAAA",
+  "cor": "#382518"
  },
  "mulher-40-caminhando-rua-arborizada": {
   "origem": "_fotos/brutas/mulher-40-caminhando-rua-arborizada.png",
-  "largura": 1536,
-  "altura": 1024,
+  "largura": 2496,
+  "altura": 1664,
   "webp": [
    480,
    960,
@@ -249,13 +253,13 @@
    1600
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYgCw7CPlm4s5+QkfOB4jggAA/q26QA+OpzqhE79kpYAl5LqEJY3ztWP0nsbMiMaMVnMGKaYDXg5yovZBySu0rR/XK/vyk6+E2Bra3U0pDe4cAAA=",
-  "cor": "#695B45"
+  "lqip": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAADwAwCdASoYABAAPu1mqk2ppaQiMAgBMB2JZQC/OCFQA+dH+JV7VXuAAP7ysbfT32rziSyloMaWvzE/tO4lKHFDGYGyl6E9uSl6JBYnBMSpcKM/vLP8fqWvSkv/tr7gJtyfXt5GYyca+vBf4Kc8SPY0YRvXLMVVkLEFptQFUixc6AAA",
+  "cor": "#423C35"
  },
  "mulher-46-janela-fim-de-tarde": {
   "origem": "_fotos/brutas/mulher-46-janela-fim-de-tarde.png",
-  "largura": 1536,
-  "altura": 1024,
+  "largura": 2496,
+  "altura": 1664,
   "webp": [
    480,
    960,
@@ -267,13 +271,13 @@
    1600
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAwBACdASoYABAAPu1iqk2ppaQiMAgBMB2JQBOmUAFI3Cyt6eduFx4RfUAA/vzIgRHPixslPmZh51kuDaafiQlxIyIj/cpmWDtD+t3TJ9SoEf3wygdBjbR60Oy6+EpLlhIhcZaJWumHinDVcAA=",
-  "cor": "#5E4B35"
+  "lqip": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAAAQBACdASoYABAALrV2u12jqampiYC0SgC7AYxtt0ZoRpuLEyQb+PNOAAD+93zWF39QPur3iuIDvhOObMcoInqXM52N0JINADjHCghW6Ow09Gpt7l1/mde/u1w4duoJpWdDQJ7Hi4a9074ulpDYIqkDxP2ZNNxLOG9Z3zylKWE4ntmMUy7wdWnTEf4Y1gAA",
+  "cor": "#5B544B"
  },
  "mulher-46-janela-fim-de-tarde-vertical": {
   "origem": "_fotos/brutas/mulher-46-janela-fim-de-tarde-vertical.png",
-  "largura": 1024,
-  "altura": 1536,
+  "largura": 1109,
+  "altura": 1664,
   "webp": [
    480,
    960
@@ -283,13 +287,13 @@
    960
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRtgAAABXRUJQVlA4IMwAAACwBgCdASoYACQAPu1sqVAppiOiqqoBMB2JYwCxH0LB+Qn7/rY6pcLQ62ehVwl3PlfH3VboB3FcfpvmxzjwAAD7wzZhgLDrNB/TKIsn6MP/M3xmgYFXn9w5ZS/OGJ5qn1f8Igo9r17p+iIa8Mt6tVMphfcE4Y9OngAEH2H9NplEc6uNEuALjzbLChLP6y7ZlMDd9ZfVmTZv6Z6eurdbd6ixLNVpPqwZzeEn36aJOwuw37UfGWgXGmvJbtZ0HxCFk89XrvImWCkhIgKAAAA=",
-  "cor": "#736050"
+  "lqip": "data:image/webp;base64,UklGRjIBAABXRUJQVlA4ICYBAACwBwCdASoYACQAPuVgq02pJaQiMAqpIByJZgC1G0x6gKqfcFn/eBup8GHRU5rQaFeNfaRO0dBcdp03RPsHqB7du0F3s2QAAP7xfkLabbPy3T3M00sovLAiI/My3275x+fMEpqWfeK+bveh+QNXx8VZWiWNrDGKGkrvtt0x9PnO608/F6tHhzfXS8UlpAJNxjlicKbgx3tp3ekaJ5Ce1uY+OX6rWePr4W2ZKsiZKjdg/j22gvSrvXXI3vrobgf+qJOb1uQt4Pd4cpTpdDsyhn90bQWfHt8HWV2BOXLo0hMru7kjtrpV71COmkH9dZSBVJfVhg1x/m5H3z3VHJqSaxL27Zgo0YQ7N7tOuEaz6XTOMJebPPOCWB7I1ArZzt1G0sNRkXN4AAA=",
+  "cor": "#807163"
  },
  "maos-xicara-de-cha": {
   "origem": "_fotos/brutas/maos-xicara-de-cha.png",
-  "largura": 1536,
-  "altura": 1024,
+  "largura": 2496,
+  "altura": 1664,
   "webp": [
    480,
    960,
@@ -301,13 +305,13 @@
    1600
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAAAwBACdASoYABAAPu1mqk2ppaQiMAgBMB2JQBOmUABp21nE4b0tatOUazAA/tsYrTs5GXvfxPdEaTry5Kw7ZHmTskr80xs4e0meBx6511M6Kp0O8NdPDuZbVg+FWaiy6GrXQChX8KkgtLxJzhX12rlgBAm/d2u+S+FmrPUAAAA=",
-  "cor": "#483020"
+  "lqip": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAABQBACdASoYABAAPu1iqU2ppaQiMAgBMB2JQBdkCYhcfp2dTtLkax8kI9JgAP7w36cc88tTwPaTxu/2mDJH0Qaqwpt1IfgrSuSh7zcmAuKqluqlfVbv8FyueSK9HjBaaSncM7EM3PntDY5UnEnPHbI/MMwwVBojC/foTJ9ZVCkT5xtkjww06+eVSM/ibqELEBT7DgAA",
+  "cor": "#453126"
  },
  "recepcao-chegada-homem-50": {
   "origem": "_fotos/brutas/recepcao-chegada-homem-50.png",
-  "largura": 1536,
-  "altura": 1024,
+  "largura": 2496,
+  "altura": 1664,
   "webp": [
    480,
    960,
@@ -319,13 +323,13 @@
    1600
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAAAQBACdASoYABAAPu1iqU2ppaQiMAgBMB2JQBdgA7/Pvk9yYoRf/HqqiAD+3U6HSvqkaZ86pDtlCnKkfo8C+PYBrwOtfK9LEJaQf8XE8t4TyCvqeEu+CU9k6IufUQLGUTF+bYNwIXoC5yuH6nCPF1g6U25lHI78aVKnn0nAsRQ49wAA",
-  "cor": "#45382E"
+  "lqip": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQBACdASoYABAAPu1Ct1apoqakGAEwHYllAJ0AZRUi3743gYrvSq6wAAD+9swVpfNZ/0cePnxi4XN8reY9Tx7Wjn/3pz8pA6r4UrOBuLFsyRsSsxptI4nIcdo4+yXkme+YgO8GrpTRAr56jDTAAA==",
+  "cor": "#261F1B"
  },
  "consulta-mulher-52-ouvindo": {
   "origem": "_fotos/brutas/consulta-mulher-52-ouvindo.png",
-  "largura": 1536,
-  "altura": 1024,
+  "largura": 2496,
+  "altura": 1664,
   "webp": [
    480,
    960,
@@ -337,13 +341,13 @@
    1600
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAQBACdASoYABAAPu1Ct1apoqakGAEwHYlAFtkD0gCVnxb6AYz5vbiHgAD+7OjrHUD1BSC27STW0X1gvzNkJ29eMQRGEUb6Oi+TzXXnUpwyVwOb4cN3Ids6Poa6aSSiadncXk0IBnIQAA==",
-  "cor": "#3F3329"
+  "lqip": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAAAQBACdASoYABAAPu1kqk2ppaQiMAgBMB2JQBOgA3S0XH3e8zPyd/KGYAD+8X9wh3ULjVJxjE1FAuMS9fOFFRY7yFn13Vp7VQzCVUxFI4/ofdpZbElWZ8hHUjXaDBGCuPf/d7lTpeg4H76812vtLXaY0PhvW8iz3SybsoRZu89eAAAA",
+  "cor": "#41271A"
  },
  "consulta-maos-desenho-explicativo": {
   "origem": "_fotos/brutas/consulta-maos-desenho-explicativo.png",
-  "largura": 1536,
-  "altura": 1024,
+  "largura": 2496,
+  "altura": 1664,
   "webp": [
    480,
    960,
@@ -355,13 +359,13 @@
    1600
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAAAQBACdASoYABAAPu1kqk2ppaQiMAgBMB2JYgCdAGjRC/hz4EgHHqV8AAD+/LC12C6+w/YeG5y0g5nkxarfx0ffSY5blZFT+dge+52bL237h7u23YjWH3KeMFyW4vv6yV/T40j0Nd8agE5qCtXxLcGUqjzjU2qSw2vhGeAA",
-  "cor": "#543520"
+  "lqip": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAADQAwCdASoYABAAPu1iqU2ppaOiMAgBMB2JQBdgAxSY0nmKJ5Q3xBwA/u8/z6BTEuqxdp1cpPjQJVWe+EPGI4Sp9Ryf31tp8F2MGAUNn432v7N3ylv9yHVQ3CWTbTwXvCC3tfW1k5V+jz140UjvssfZ+TkV/KgDyMdUcEIVyFID1R4AAAA=",
+  "cor": "#5C5144"
  },
  "mulher-52-pensativa-janela": {
   "origem": "_fotos/brutas/mulher-52-pensativa-janela.png",
-  "largura": 1536,
-  "altura": 1024,
+  "largura": 2496,
+  "altura": 1664,
   "webp": [
    480,
    960,
@@ -373,13 +377,13 @@
    1600
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAABwBACdASoYABAAPu1kq04ppaQiMAgBMB2JQBOmUGMAHJTHd0YGVl0t4MNqAAD+/kr4jjsZr2lvH7/GvmRUcIkGSVijSm9yoTPiUEJ0ZPdm7tOb6QU+Ew+IkqkVINCZ4qgDE6U6U9GslODYc1aI9vgZK1joNEMAAAA=",
-  "cor": "#413223"
+  "lqip": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAADwAwCdASoYABAALrV2u12jqampiYC0SgCw7EK5Al6pIK6vJIp/rn4AAP73fKu3rw326v5Xy0a5V1cCRoDqud5z2dG60XFDVaWavLLICorLJBrbzAzWF7IGz/wpnNoXewObOECqWbTER9RFDCE/errdAAA=",
+  "cor": "#4D3D2F"
  },
  "mulher-52-lendo-orientacoes-poltrona": {
   "origem": "_fotos/brutas/mulher-52-lendo-orientacoes-poltrona.png",
-  "largura": 1536,
-  "altura": 1024,
+  "largura": 2496,
+  "altura": 1664,
   "webp": [
    480,
    960,
@@ -391,13 +395,13 @@
    1600
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAABQBACdASoYABAAPu1yrU+pp6QiMAgBMB2JaACdMoAKRplBtxXsu23zDpqAAP77atBuf+w5oToqPc21mEQnVBjCpXzDPX4/HByeFxVFQw62wGP/rHoAW1EY9aH0VwrmiUWXVeh/r7I3nlIjqqIV+YK+WVoU0NbLaW6iVIru/HYOCX4AAAA=",
-  "cor": "#4D3122"
+  "lqip": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAADwAwCdASoYABAAPu1iqU2ppaOiMAgBMB2JaACdMoR3AIJHNEYttD0AAP7+FYrg8ntZP83u16COlN40JW1y38tOi0wB79VfUNFLYE1SsK5jg1Q2I6R0GC0/XmhEhXij3BlzGGzpfNBp3pnl9kJAAA==",
+  "cor": "#351B0F"
  },
  "mulher-50-cuidando-pele-espelho": {
   "origem": "_fotos/brutas/mulher-50-cuidando-pele-espelho.png",
-  "largura": 1536,
-  "altura": 1024,
+  "largura": 2496,
+  "altura": 1664,
   "webp": [
    480,
    960,
@@ -409,13 +413,13 @@
    1600
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAAAQBACdASoYABAAPu1iqk2ppaQiMAgBMB2JZgCsACFWZ2qem4psz96uAAD+8NNk94SXjgOLFvSd8kb4qUpx7Z/xMZq5zcfW6allQQf37UfLjzd9DNWtrx8yZFEImOsL9RNGeebJ7EDW4FmNTI0x4TdfWJ1F15Q9WSdrhPoGMZ11Jhr/2DWzRuCQU3eyYAAA",
-  "cor": "#685340"
+  "lqip": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAABQBACdASoYABAAPu1iqk4ppaQiMAgBMB2JQBOmUAFHEK9z9VniPqbTYL1QAP79HD1g3wzSmIH5eSysrK9yjbb5mf54ecl4gYzHNBHUGJdJpa5xwPnn7YGE4diXUqLG7pYmjtmPlAaputkiCL2Iqa57ONt1JAg/Bly/8ggBMCgAAA==",
+  "cor": "#615447"
  },
  "mulher-50-cuidando-pele-espelho-vertical": {
   "origem": "_fotos/brutas/mulher-50-cuidando-pele-espelho-vertical.png",
-  "largura": 1024,
-  "altura": 1536,
+  "largura": 1109,
+  "altura": 1664,
   "webp": [
    480,
    960
@@ -425,13 +429,13 @@
    960
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAABwBQCdASoYACQAPuleqU2pJSQiNVgIASAdCUAX/YLNzeb3BkrE7OAGeffYVGaOeAGcH9YAAP7lbKFp8c0oRAYwaXKt2QeMR6zYaLR1vBquUjPRGofss7UmzkeJsGW11vEO2HLkJohbsSmuuhdy0hWDX2AKIUpjZegOCwbazhY6aJo9n0gUCeDEs2z/bTKZfxYZj8t2h4ppJUInKURStt+TqirtzxSLDMrqUNTli/UR1vJKmHFBNk3KAAAAAA==",
-  "cor": "#513F2E"
+  "lqip": "data:image/webp;base64,UklGRhYBAABXRUJQVlA4IAoBAADQBgCdASoYACQAPu1sq1EppaOiqrgKATAdiUAXz2E8ucLpwSwZX6wX5zL8ioeQKOTjFAWSS/8VKr+nozAQoAAA/uIBsD4TWZwqc2V24yhIWb99gs7L+q1dgLXIcASQu6FOxVCfC5D6WdTN+ov9gjRqypA243j/KQxoXdD1hBIC7R5kVlZqeenvXSaIuoeTFpKnFPLR+Fvtbb5NhX1wQPJYzpDBVOV67Y8pVlQYibiaPO7tPYajasHR2/+UOwzu8HqcM6cobGvAzb55kzGGq3QOw8GRvint/gMVXdNgrrGGS8yfZI6qKXORdDS0cEd3ibxOFYQA0t0sQdccxgCcnzLG6+/s2PqEFSFMAA==",
+  "cor": "#8B7867"
  },
  "homem-48-rosto-luz-lateral": {
   "origem": "_fotos/brutas/homem-48-rosto-luz-lateral.png",
-  "largura": 1536,
-  "altura": 1024,
+  "largura": 2496,
+  "altura": 1664,
   "webp": [
    480,
    960,
@@ -443,13 +447,13 @@
    1600
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwBACdASoYABAAPu1mq04ppaQiMAgBMB2JYgCdAGk8RbuwDUZJ+/wPlwAA/vXkVFsF8/4Uct97Ml3buoPiEMxJWPbzvjwhgUibpuWSWlNXn5NygVwPNkgyUkCyZ8cNnVDsIordOsseIAAA",
-  "cor": "#392A20"
+  "lqip": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADQAwCdASoYABAAPu1iqk2ppaQiMAgBMB2JQBOgDSw/SwavDHAA3lAA/v1WRXC9VRDejX1w0XUckNfwiY+hm9UwiZmjeUUL0X9a/V84roYKSEIMXnZRjKpGENzDU27bqAA=",
+  "cor": "#2B1E14"
  },
  "mulher-36-cabelo-luz-janela": {
   "origem": "_fotos/brutas/mulher-36-cabelo-luz-janela.png",
-  "largura": 1536,
-  "altura": 1024,
+  "largura": 2496,
+  "altura": 1664,
   "webp": [
    480,
    960,
@@ -461,13 +465,13 @@
    1600
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAAAwBACdASoYABAAPu1kq04ppaQiMAgBMB2JQBOmUAFIXP1xLJ1CrlHENwAA/v0E7OxhrljcBKVP/mKkgW4UZxsnPfcTxtV09rksCl0MhOar966eEMp9UQu9vhmgflT4il+nxu0iNuDjbyG5Y+9NS8geYAA=",
-  "cor": "#3A281C"
+  "lqip": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAAAQBACdASoYABAAPu1Ct1apoqakGAEwHYlAE6ANDhrE0vckgzC9rmBJgAD+5eTuFczW7LR7u6W46u+mmlofac5yrAuew0r/q72qetovmGaEXvYZnYJdkazs8i80BSi1V5wzg0Wcs9TND2uM4D02hxT9E5J7nngg4AA=",
+  "cor": "#6A5440"
  },
  "mulher-36-cabelo-luz-janela-vertical": {
   "origem": "_fotos/brutas/mulher-36-cabelo-luz-janela-vertical.png",
-  "largura": 1024,
-  "altura": 1536,
+  "largura": 1109,
+  "altura": 1664,
   "webp": [
    480,
    960
@@ -477,13 +481,13 @@
    960
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRuQAAABXRUJQVlA4INgAAACQBgCdASoYACQAPu1oqlCppaOiqrgMATAdiWIAtvwKQ2wdlMrRnTH9+jILBJfO+p2ECZG+15Q30/9q3/8AAP7m6aXl7NhwvO7Ak+EWbPXl/8asw009Z0Ejlx4e1aY0tVkFq9fr7ncLKDyAoDDoCdBdmZsl8ifOO43Otu9LFMloQjK1K7XEW/qr2t1Dn8hYZuw2peL+Rqo6dLuXWwWOjHr4bxaM8deAH+WBeQ5KRKP+MvkTi3LQVsUf3wtdAPw0JB39AQZUEWjwF350/sCwtlZKDgxVLuXoAAA=",
-  "cor": "#4A3728"
+  "lqip": "data:image/webp;base64,UklGRvwAAABXRUJQVlA4IPAAAABQBwCdASoYACQAPulcpk2pJSOiMBqtUSAdCWQAuzPCBAAccAKfMfEdlzdn79Ofi2c9ntG1o7iYdz3RvcY9dPRwkycAAPtoZWGDE7axhRSC70gNQDuWnRU0EwpLN/kzCOtbgHno6Arro65JsLoN/4GK/t3ElwIgUsOAnwyaaRSGwmaF9SzMVanKzMZbKCmCw2zj3sb4QPeGJ30hzm/voZbcTmCN+h9Z290piJJHOBSFtCeY9Ctejj8FTZzQOb5jd4HcqzZw3PeEWnRtqjmk5MWd7pnhUgzu0oeEvEXWM5zOMZWlWKpEKYn6GwuuRaAAAAA=",
+  "cor": "#644934"
  },
  "homem-60-chapeu-jardim": {
   "origem": "_fotos/brutas/homem-60-chapeu-jardim.png",
-  "largura": 1536,
-  "altura": 1024,
+  "largura": 2496,
+  "altura": 1664,
   "webp": [
    480,
    960,
@@ -495,13 +499,13 @@
    1600
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAABwBACdASoYABAAPu1kqU2ppaQiMAgBMB2JagCsAGlgBrOgze4OohrG/rkQAAD+8VQns6Vx6g/KrUL+x1kjL+cRllAu0HXCtu5zptdP32/FVtIV5QisjJfEfo4YdjFp1p3IaeRPsvrAfkkJAJy2b/EctHFv/z+B/5jGsR99D6hFQn8hUi2SDTQcAAA=",
-  "cor": "#614F36"
+  "lqip": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAABwBACdASoYABAAPu1iqU2ppaQiMAgBMB2JZgCdMoACblu5bPrKlZkd9JWtgAD+70moHlulJJTKUWjgbyzm2BYnBfPHWnU/rjz0qvqgJR82Ddeh7ObIYuViGmeheMsSsYC6kA1vvfmxt3nOuDDYN3KV0WsCKFVVJWM3Yeoffgl41wUgAAA=",
+  "cor": "#564A30"
  },
  "homem-52-mensagem-celular-sofa": {
   "origem": "_fotos/brutas/homem-52-mensagem-celular-sofa.png",
-  "largura": 1536,
-  "altura": 1024,
+  "largura": 2496,
+  "altura": 1664,
   "webp": [
    480,
    960,
@@ -513,13 +517,13 @@
    1600
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JaACdL46Fpa7AaF9faX7QiJJRAAD+/Kxzq2hSma/kOok6SKdw/OAfPC0qr+Ef3BJoIUs8P7u8A+FvUZkFQ+txarAsLZEuhKEgCvWlvqyrkOo4QpPYl7KfQQq2LgAA",
-  "cor": "#402818"
+  "lqip": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAACQBACdASoYABAAPu1kq04ppaQiMAgBMB2JagCdMoAKPBqqfWXcw1mkhba23GAA/v4WfizcnoWfieHQTdpiFbWF9x/TMa8RcXn14hNq0sBToOMcMQBEye5Et4ppnB4w5hMTbDHwyHgorO+ekz6nA4OpcjTYLAAA",
+  "cor": "#372415"
  },
  "mulher-47-alongamento-leve-manha": {
   "origem": "_fotos/brutas/mulher-47-alongamento-leve-manha.png",
-  "largura": 1536,
-  "altura": 1024,
+  "largura": 2496,
+  "altura": 1664,
   "webp": [
    480,
    960,
@@ -531,13 +535,13 @@
    1600
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOgBC2Dp8yJTxsiNCXuRAAA9q6VYEw3jZtynzW2vKUnDufaEPTDKJ8TMbG9IA0XjUocH9blD3vWD/jHfYtlM6RR5ZIhl7QAAA==",
-  "cor": "#594D3F"
+  "lqip": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAAAwBACdASoYABAAPu1kq04ppaQiMAgBMB2JYgC7AGjeshMQv9R73RqzYOAA/v2dAafvyer1G7e/1If/9lc62ERcW0esrlN8bepLQcMR6OLhVGKS72T8uSoHTi9nT0ZpgjkZLdjTyAW/gGKNLqdqowUmnbwiDITeMmaBjwAA",
+  "cor": "#4B4335"
  },
  "mulher-52-pensativa-janela-vertical": {
   "origem": "_fotos/brutas/mulher-52-pensativa-janela-vertical.png",
-  "largura": 1024,
-  "altura": 1536,
+  "largura": 1109,
+  "altura": 1664,
   "webp": [
    480,
    960
@@ -547,13 +551,13 @@
    960
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAAAwBgCdASoYACQAPu1iqU2ppaQiKq35MB2JZQC/7BZumiiqcsa8YmkoM7zqUO/GNlcvKYx/7F4JsWmoAP7xDgt69wbvUQ4jH2LBEwlXYxTzwQU3fqvCHufwVWcebJ/Rj0EnYJwXrWQzinF9f+J8drXOhycp0PJ0qz7h4loA10UelzpsuSyl/yauE3wK004aBemloC2+pkmnvJnKOEXCRsVG3uU6yoAA",
-  "cor": "#3D362B"
+  "lqip": "data:image/webp;base64,UklGRuQAAABXRUJQVlA4INgAAACwBgCdASoYACQAPu1gqk2ppaQiMBVdUTAdiWQArDKDQ5BkmSVloFJX6J7fn7RMFmwV/IIs3/wOLay3OeN0AAD+9NBR0rgmk3DcK3h4HUchePoouldIXQE39aq9v+QXjc7fhUFy2u5bd4CcRXv+mZfXq5SatXr9s/pcbTMMb8nnppkh+cNMoQwKudJfLMaM9V7VxPw9vfcRaS0/wlSGcA/G9AWOxtwT+lykH3yCjVgPRdY2XxQPjSRMlutWbjtGvWD3TJaXgR1Oedyy8Ulw0IJ7OyJ3mVF5AAA=",
+  "cor": "#715B4C"
  },
  "casal-58-caminhando-calcada": {
   "origem": "_fotos/brutas/casal-58-caminhando-calcada.png",
-  "largura": 1536,
-  "altura": 1024,
+  "largura": 2496,
+  "altura": 1664,
   "webp": [
    480,
    960,
@@ -565,13 +569,13 @@
    1600
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYgCdAB4aaHTwYzGSFGWxxc46gAD+8RJxZucEkm0aDAUoFrEsUXWEa58lmfyHVts2ftnyhmnnU4il1yIlTVz3FnJtTEMkbjaS5lGgVhdwP4KxBUJM5s/mTeQkBs3tq3qilMAA",
-  "cor": "#6D5B46"
+  "lqip": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAACQBACdASoYABAAPu1krU6ppaSiMAgBMB2JQBdmUI8DOhEgcupUH6kU4Mpv2qAA/vKrcJg2I17EbK+mvlJhSjZayReb2yaSotEfPbRaqwxoUcw6PSOxUTfHzcfaF3yTMAxmd/rR/hOWfGqv/hlI7KakrGigxVafsSGU5grpyC32PNrk/oNtsbJkhFaOiAT+4AA=",
+  "cor": "#524330"
  },
  "maos-anotando-caderno-aula": {
   "origem": "_fotos/brutas/maos-anotando-caderno-aula.png",
-  "largura": 1536,
-  "altura": 1024,
+  "largura": 2496,
+  "altura": 1664,
   "webp": [
    480,
    960,
@@ -583,13 +587,13 @@
    1600
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JaACdMoRwACkF5PhwdRX9Y8ZgAAD+3PUL/i/L/+w3utmga8kvZFQIsRtX37dmvbUC4RkRYvDTv4qhOShHSS0fLshNtXxDm+9khRrxGP+IITDI02VCEJ5JZ4isg52neLP+QuTMOFjzTWiaek46OTgCJEtgAA==",
-  "cor": "#61442B"
+  "lqip": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAACQBACdASoYABAAPu1iqk4ppaQiMAgBMB2JQBOmUDX/wGh6g982/xzM7PICmkAA/vK0vN0QxfKOg6upGVWZnpsCoInZZo7NP8pRrkCKsSt9wfzex+IP/zrkl2qYFJmn2MJzcnkU0Ovaj2+IVpO9yWQBKAGGVQoKzNvISwEraTDPYgfe6yIYKTFuicnaPyDxpSmTisT2/6OIAA==",
+  "cor": "#705847"
  },
  "mulher-48-jardinagem": {
   "origem": "_fotos/brutas/mulher-48-jardinagem.png",
-  "largura": 1536,
-  "altura": 1024,
+  "largura": 2496,
+  "altura": 1664,
   "webp": [
    480,
    960,
@@ -601,13 +605,13 @@
    1600
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAAAQBACdASoYABAAPu1iqU2ppaQiMAgBMB2JaAC7AGk7wJOfLsodABncgAD++95LPJqXR9mSPYJF2uYvWdmmOsBS/4yTuMQSsUcXqCzqIy6BuBxGBn9uoFOuUPiPep6wq9dgwbw753P2z1dweZuYIRUFFFJwNht1bBhzSTD84ogQAAAA",
-  "cor": "#453721"
+  "lqip": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAAAQBACdASoYABAAPu1kqU2ppaQiMAgBMB2JQBdgA4YRE0NDYcB+/+beAAD+8N92Ct7IuVpOGidWefgYbUz//WZhAxC5GdxyuRUpXv1OY9selyaVVPCArAu5q5qgkS9mMGw9LfqGHz50+ai2zQwrFcCbegw8QQf1kAA=",
+  "cor": "#4B4932"
  },
  "homem-38-corrida-leve-rua": {
   "origem": "_fotos/brutas/homem-38-corrida-leve-rua.png",
-  "largura": 1536,
-  "altura": 1024,
+  "largura": 2496,
+  "altura": 1664,
   "webp": [
    480,
    960,
@@ -619,13 +623,13 @@
    1600
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAADwAwCdASoYABAAPu1iqk4ppaQiMAgBMB2JaACdMoADP+gvdL3UIQvQAP7w0qo2OS/Q92oJ8p8e5kuojxYPOlN4iEIr2Jbey85iE7GV8OGdpffASmcxDgV2SFxMEEB9//SmtFbFKOqWWW1vVnFSbhv69V7JGeypLu2sNsEnqTMiR0EgzbgAAA==",
-  "cor": "#534124"
+  "lqip": "data:image/webp;base64,UklGRqwAAABXRUJQVlA4IKAAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZgC7MoACEb0lh6GweFXxq+NYAAD+7DEK9TwxWJdggHXIdzg4+FmiXNZ9NkduJktwRcZHnfyWAzWFjxSAkaS7bOHSc2tfRftH/ouPiowOyyNJCw26ClJAP5/cL1YixKWeo+5bcEtAsQb32BSwESSCjWt25LKao+5eBrfqnGAvZVs/BaaH9eAA",
+  "cor": "#5E5337"
  },
  "homem-45-acordando-bem": {
   "origem": "_fotos/brutas/homem-45-acordando-bem.png",
-  "largura": 1536,
-  "altura": 1024,
+  "largura": 2496,
+  "altura": 1664,
   "webp": [
    480,
    960,
@@ -637,8 +641,8 @@
    1600
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAADwAwCdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOmUABNBurZY1whQtywAP64KhGXtUmki3WMkAoV39Kyi6yJMotaEGoSKMaxiLXZx1M0eYrCqfVDrs9IpeuKwVGJKYB2JUjvkUdF4wuw/wULuIN3BGtRj9fg4iL8fNUnxuoGgCN1HMCzQi8BoGph68AAAA==",
-  "cor": "#5C4937"
+  "lqip": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAADwAwCdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOgBCqBwrSRUo39hEMAAP7XsP5bpI2wIEzHoVHDy9B5iIJE7GHKwLXI2puEbbUMXzTW+D0ZjhHQ0GFH1ZHiPq9afHlVf5ZrQhBep5peePZRn00kx752w+qdkSTzHXVyjwGCevff7vxWpD1qrEv/iZVNFxE2ahuna3AA",
+  "cor": "#807057"
  },
  "mulher-50-repouso-olhos-fechados": {
   "origem": "_fotos/brutas/mulher-50-repouso-olhos-fechados.png",
@@ -676,8 +680,8 @@
  },
  "homem-50-caminhada-parque-manha": {
   "origem": "_fotos/brutas/homem-50-caminhada-parque-manha.png",
-  "largura": 1536,
-  "altura": 1024,
+  "largura": 2496,
+  "altura": 1664,
   "webp": [
    480,
    960,
@@ -689,13 +693,13 @@
    1600
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZgCdAGtp0S7AhQMZNdIZAAD+/R+yLlSxxbejPrRfACK2okkEegU416W+SIKfp5ZXUNL839gx66dCHoEPZF0f4E7yLO41jl7xETBCAfQKz/jVOc8gjw0MY5jcfKgA",
-  "cor": "#635341"
+  "lqip": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAQBACdASoYABAAPu1kqk4ppaQiMAgBMB2JZQDE2Gk6O+gPaupUDf+2gAD+/knR/OPf+nas5jjpFFZrs6sztaGGKFToJd6RNtgYhJyEfDA99SWMZoAKZ99IOWng+KBC3q5/p74p/WTy23f8AAA=",
+  "cor": "#313127"
  },
  "casal-55-cozinhando-legumes": {
   "origem": "_fotos/brutas/casal-55-cozinhando-legumes.png",
-  "largura": 1536,
-  "altura": 1024,
+  "largura": 2496,
+  "altura": 1664,
   "webp": [
    480,
    960,
@@ -707,13 +711,13 @@
    1600
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYgCdIExCVEtbWceweE0rabZEwAD+8rM1tw9FBSM6yoqKvVfSvd52xM+8OmN/fJpSJMzOfHo4JRoIhpgQ8hhHK9V1IfH80kPk9P/5AfRbEbLUf6kdxPQTUPx4qFdHQAA=",
-  "cor": "#513923"
+  "lqip": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAAAQBACdASoYABAAPu1krU6ppaSiMAgBMB2JQBOgDR2TZ7nuFUVZa08SAAD+/hZ9d9rWQ59HzDwpHEeXwC4wP1hG+jVYs710+jtE7kC/pqXU2P1e/n3IOA/SSWAp0IuvkfPPkPaONMo45Rhiix5wL2/Oge6q1UjPOwbqpv8Vj6n64garjl4AAA==",
+  "cor": "#4F3927"
  },
  "mulher-38-videochamada-casa": {
   "origem": "_fotos/brutas/mulher-38-videochamada-casa.png",
-  "largura": 1536,
-  "altura": 1024,
+  "largura": 2496,
+  "altura": 1664,
   "webp": [
    480,
    960,
@@ -725,13 +729,13 @@
    1600
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAABwBACdASoYABAAPu1iqU2ppaQiMAgBMB2JagCdMoADVXvbSldwVeSAVRWcAAD+7NXmsxXHh3UYYtaS2xmW+Zo8NroapVghEON1kazcHjolzoKJXkMVHHhnasxhL7SBskASWVGKP/Avn8RoynSPiPfjfDAROsX9Jpz6Ljjzop1rT9aUcOv4XPnLgAA=",
-  "cor": "#5C4026"
+  "lqip": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAAAwBACdASoYABAAPu1iqk2ppaQiMAgBMB2JZgCdABjRfOnTGSymXmisqkAA/vK0OKsTZ6aKZ9eAuPNieeQMisIhUeQrJZplsdpHAr2d+PDRJJEJ5rSonWDS3r1NmKQTEDXa0hY85xEMJr3Gg5Q1sQkjy0RrJJxvno5/znRWVsxvSaZmsRJ8gBtVtsCtY1rDwlAAAA==",
+  "cor": "#48301E"
  },
  "mulher-62-varanda-manha-vertical": {
   "origem": "_fotos/brutas/mulher-62-varanda-manha-vertical.png",
-  "largura": 1024,
-  "altura": 1536,
+  "largura": 1109,
+  "altura": 1664,
   "webp": [
    480,
    960
@@ -741,13 +745,13 @@
    960
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRtYAAABXRUJQVlA4IMoAAABwBgCdASoYACQAPu1iqE4ppaOiNVQIATAdiUAXZm5Is9sI3X0mOmYF2joSoiaap5pnwFabIecHffiy9AAA/vd8H2H8DJwXjWm6GEReILGT9tjCaeLxoQYYMZZFNZEJm3KBDPFY07zC/10FvnjEYRn/7aiYDL/7RC7TnH3Yrpqt+fsyvxlbOt7+076r0GMWPFQbb55ZVmy2R0M2qytAnij4eVcJAQXHTTMG/CGzWD5B+dBG7+Cd3WCp1P/uLzkisjx9Ie5l+jIv5mAA",
-  "cor": "#4E3B2C"
+  "lqip": "data:image/webp;base64,UklGRvQAAABXRUJQVlA4IOgAAABQBgCdASoYACQAPu1uqlIppiOipWzJMB2JQBhQBzvfew21T+udn5JKAyJNN12naSlEG+PcWlsxcYbvQAD+9gjqeZEzqryD/p0ritudRjrzucUr2zAa0yHkX6BwmqjfqmbdtslBVq5vTBNE4F4CyZfsW314JsEKtSpyuKSPejrfMaFHZtOiS44jo1QQJfMBm/AJBBGo+3+N6Dxi1vnV8dZGgJCBiMnjfmpfWjKminWZhGRO0R3jvRjcEauzaPtAlvwKefkP2EpdxsSsFlibOg94nxlRKq4iFJk2LB2cie7A1aEzUi9gAAAA",
+  "cor": "#746A5A"
  },
  "homem-60-cafe-varanda-vertical": {
   "origem": "_fotos/brutas/homem-60-cafe-varanda-vertical.png",
-  "largura": 1024,
-  "altura": 1536,
+  "largura": 1109,
+  "altura": 1664,
   "webp": [
    480,
    960
@@ -757,13 +761,13 @@
    960
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRhYBAABXRUJQVlA4IAoBAAAQBwCdASoYACQAPu1orFCppaQiqqgBMB2JZACsOUFUQgd4iMWr8Wt4PaX+0kpYgE8R/iaj+rydGZr6ltUIR/uvwAD+31ptgCUrdX6UYeesWloqobDOQ92tLuVjBHyjOCaDeK/60wbSCaDXdUFvvoe/7bpKvpGmPvSEXc2zm6gCkKPV4l2Mc8xmg5Z6giihv2lbY3iQM1jgiShAkKWK5NERiGRt4Ah+P//dXNIFwXnPeYdAhrxJWpRg5oMPkyr/XKuyfkhLq0zesgy+tRJKcZK6UHK3bK6KFZYlUHPVzN50mRPh75uWKJovO2NCiJf5r5Q9fVPtvR25vzGc+tJl+pySJ2XplC1uFuWAAA==",
-  "cor": "#5F4A32"
+  "lqip": "data:image/webp;base64,UklGRhoBAABXRUJQVlA4IA4BAADwBgCdASoYACQAPu1mqE8ppaOiKqwBMB2JQBOmZNHKRrgXUt7CI1hyo2jmi2pfHSEUq4kJLm5TH5suCnlULbMAAP7xBqcNp/M0TQJBhMlpcvQ85sJjRYL8VXLliyMUNwUdSGCbpKvmI4oTvZmst4/3uxcV5l+VPCkDiIxW6N1OHP6r02sGaF6Oqq6xBL1olXdsH/RrmFb/Zx+FFfyQsGnbCVaK/XdYNIIo9jL2rRWYl6QGq12jcE9U/isMjZi8PvU929nuFqLd5Sk1f6o/HV1y3b+FbkgXctY/vA4dp/jK0AqNi3P8Fx3Ahf1OTy2JUASmq01jjq7Oos38SqxcvmCF4ZDNRvjlTbVDdkw8gAA=",
+  "cor": "#5E5543"
  },
  "mulher-47-mensagem-celular-cozinha": {
   "origem": "_fotos/brutas/mulher-47-mensagem-celular-cozinha.png",
-  "largura": 1536,
-  "altura": 1024,
+  "largura": 2496,
+  "altura": 1664,
   "webp": [
    480,
    960,
@@ -775,13 +779,13 @@
    1600
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAwBACdASoYABAAPu1iqU2ppaQiMAgBMB2JYgCdMoAKRt/79gWhXqeXPAAA/vxU/clR/VF0TGymua+229p6rUbr/T1Nf5Q1ExUAfzKX6ngY1m4zLgw41+qWKxf/y6lpumYdTagsxelWi6c3TuEAAAAA",
-  "cor": "#3B2415"
+  "lqip": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAACwAwCdASoYABAAPu1iqk2ppaQiMAgBMB2JQBYdjSdpMRZGR3dwIAD+/RtKyqvqm/Q/0b6JmZTHTelc+fMGMlFRxzPkIlvIQLuhUklVzcu1yN8okq9CL345QLUFyTBWfEOq53if/FGbBG9zADhpAuMInHb6zuCEqUrWAAAA",
+  "cor": "#45311F"
  },
  "homem-62-chapeu-jardim-tarde": {
   "origem": "_fotos/brutas/homem-62-chapeu-jardim-tarde.png",
-  "largura": 1536,
-  "altura": 1024,
+  "largura": 2496,
+  "altura": 1664,
   "webp": [
    480,
    960,
@@ -793,13 +797,13 @@
    1600
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAABwBACdASoYABAAPu1orU6ppiSiMAgBMB2JZgC06GttyNO5MP5HU13FQrfQAAD+6bAqCkdWFUHDTtpwfXsLNOQ6AeNcFoOtn7zhOr/0XfQCy2nFjaTQH437lMwxVtdwuDdA7Y0J+rS2eGI5OvOm+CMaonPtjJ3iBgAAAA==",
-  "cor": "#564429"
+  "lqip": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAADwAwCdASoYABAAPu1mqk4ppaOiMAgBMB2JQBYdhCo4LOyJisjnQImAAP7yq277p5f3J+6mxV8rh1PG6UIc3J1/r9GiHEjEEMp2NekCfWmWAewn5KjILj0zVusOW7wRqkXi8Nkm3q4+I50JgelibGSdAA6IE1M+5gAAAA==",
+  "cor": "#52452A"
  },
  "mulher-39-coque-terraco-vertical": {
   "origem": "_fotos/brutas/mulher-39-coque-terraco-vertical.png",
-  "largura": 1024,
-  "altura": 1536,
+  "largura": 1109,
+  "altura": 1664,
   "webp": [
    480,
    960
@@ -809,13 +813,13 @@
    960
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRgIBAABXRUJQVlA4IPYAAAAQBwCdASoYACQAPu1krVCppSQisBVYATAdiWQArk+zQfhkkNJiq0mDsMySynsJB+u9QQWMxNZbIC7iSlgxx7GLAAD+8ql5vWw7+GJtBKIucxWzb/5bk1WgDIh76LslLytvaiqyRDeIUfg5VFDu1D6CG2HNy8YQIXWm+VNK606Do4C73lh3WYZ68y9To/K+0DdIUacSKoW+hUoaR16EIi3Zi84rcZYx5EI1Mm+A5vG5LTXG4qYIWbUr0tG1lZ7hEQve7f8lEaYlpoE7sfP+Q1RrjmHCWjqR7PoNjRL4kepV2TUvZ4AYjoXR2RhEnNXcpC2SsMtQAAA=",
-  "cor": "#4E3927"
+  "lqip": "data:image/webp;base64,UklGRg4BAABXRUJQVlA4IAIBAAAQBgCdASoYACQAPu1kqU+ppSOiMBVaqTAdiUAToAWFD2hPOCYLeEb5r18hKDfA6PczMr7uKmfp7gAA/vNbPnVEuRkhsaDhiFcnfdSW1kaTQiMPAVlTxlPUTJn6hrDj7nOdxYUsmb7tw1DFMviLEJfFw38N6pkoIF5FMtEZzRzVNo/pM/zmIT5KB7lrWLiB8FwDFAT+rNhXOwkAZHx9viCxCvibe2oPvqRKAX6ggSwfrvikb7WeHof5T/nmQLE8lG9YzDiUeZhkEJ/mvh7rMVgv46KwoDsLksfmiu3ElvqjLXnHhxVIjZsn2b0UTK+AWn01zdeQC1zRymJT98krJxbKYAA=",
+  "cor": "#6E5844"
  },
  "mulher-40-feira-manha": {
   "origem": "_fotos/brutas/mulher-40-feira-manha.png",
-  "largura": 1536,
-  "altura": 1024,
+  "largura": 2496,
+  "altura": 1664,
   "webp": [
    480,
    960,
@@ -827,13 +831,13 @@
    1600
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoR2WCr0k01zlGrOWc2Gl4AA/qD9ZjWSgoeUuIjCckN+q5dNlgoBLhproUQZM7rbBoptBBoYQCXBcBD3mmfuaToQlISbeVvc0DrRoaUPbxM9RB7+5OU1w19SaK5GunKGUe2vs43z0sNgNuXzXIH2xhaqqUAAAA==",
-  "cor": "#6F583B"
+  "lqip": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOgMX7WNbgCr+dkbl3WaOAA/v3dKiO+aqKu8kEH/5MA46/F7zdzDthLK9mnlrhvZGXVRpQ0iZYVcbnhHczRvjnjsuNzSavfeD9t+e+5wCvIqwbARAlgq0X1GQ7fGlTKxetNTMPj1HTYoOa5PGV+LJLTOJwE7lbtQVLNDyAAAA==",
+  "cor": "#463426"
  },
  "mulher-48-mensagem-celular-janela": {
   "origem": "_fotos/brutas/mulher-48-mensagem-celular-janela.png",
-  "largura": 1536,
-  "altura": 1024,
+  "largura": 2496,
+  "altura": 1664,
   "webp": [
    480,
    960,
@@ -845,13 +849,13 @@
    1600
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOgDSvd9hmgWCk+UG3EsiAA/vyoPS8Q4isZY/9WqN+PXzGJ7Wm3lXTfAtP8WrqvsKld9F+KlaAXDQTIQVOV3u0ucU79QpWBrSK4OCA+ENIow6o7Y97oKfH1UBxMAAA=",
-  "cor": "#4C3729"
+  "lqip": "data:image/webp;base64,UklGRqgAAABXRUJQVlA4IJwAAABwAwCdASoYABAAPu1iqk4ppaQiMAgBMB2JQBOgAkehcVwLBogA/vGApDEVbqCGfOIZja/NYll1CK2mw9esnSx1vgmAceT6wwRoQTSeSYTnv8V/IQ7X/nBen6uryKZDXvyMZXVnWi+FqbbjL/kCsc6Xiv8HeWnH1QGUnTCZKmUVs9ZmF95D8RH7efZxiNtWdnaggEml4jzc56VgAAA=",
+  "cor": "#453423"
  },
  "mulher-40-feira-manha-vertical": {
   "origem": "_fotos/brutas/mulher-40-feira-manha-vertical.png",
-  "largura": 1024,
-  "altura": 1536,
+  "largura": 1109,
+  "altura": 1664,
   "webp": [
    480,
    960
@@ -861,13 +865,13 @@
    960
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAACQBgCdASoYACQAPu1qrFEppaQipWzJMB2JZgC/ODngGb8oQCSPSI+nbV1+FeiYUdnKcl6WI2He3z6rGmcAAP71c1FtKD7wJ8Tm/vRkIbw5hnJGSHL5Nt5vmfuW9M0Sfjc/TU5ELpOXGRi9iUugtFo1USwLMgo0vwOKcsBSvVdeazkGBqGISEK0NxFBad5xnc77vZptJyDfMtIEoWue7cgpbT6COr8oOD7Fc5RNiW81kM5YLpXLROuFx3Np69NE/BY2zAAA",
-  "cor": "#634C3D"
+  "lqip": "data:image/webp;base64,UklGRkoBAABXRUJQVlA4ID4BAADwBwCdASoYACQAPu10rVGppyQiqrgIATAdiWIAnTOzPtQirZ20oEBds5ZA4JV/DQjh/y8H+xT06swKkwkkjf8xWqyfnIR+jEAA/t2yU8YcN3he98s+jA91s9CGWrQI6muPtvaLiS7g7DGaDk1EQB/mcIUzqADa+k5Y97gHkVVhmtMgltE3LSSgmtnliBG8k3ulz99FnYD7LlkKsYFjyOABFVO6pgAdXg2tSI/DVAyXNPf3g+ixugb8skNSLDDM0a2fH8txO8pGNp0HbL7nQBmWZ6O9CPZeys2MGBb2oJFVr7H3B8EAijnC8v8hn2V0wCRR+1tVQ75xEz2c547RRaT6zW776RINamR0xul4XLjt6qTCqPzIWlelpz0YAo2mqWy+B+RTGlCWcb0AcMJPvXQ5YW9+1e+BJuTWSvXAAAA=",
+  "cor": "#5F4532"
  },
  "mulher-45-bicicleta-parque-vertical": {
   "origem": "_fotos/brutas/mulher-45-bicicleta-parque-vertical.png",
-  "largura": 1024,
-  "altura": 1536,
+  "largura": 1109,
+  "altura": 1664,
   "webp": [
    480,
    960
@@ -877,13 +881,13 @@
    960
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRhgBAABXRUJQVlA4IAwBAACwBwCdASoYACQAPu1oqlCppaOiqrgMATAdiWYAnTNWDpk4mV9RlskMstOXSAlQZUxzx4DYuLxO/ythG0Esx0642NcLTK0AAP7hvaJo4cJ0d35EKISN461Dh5q8ZI1k3EUUPkBGaqMWhAzZdkNaSyUH/5VCJIj9vVacr2o7T6pmJG8kyXlZ5uOj0nCDMwq4223Wj0kzJzlzDrUEKtGYwq88F7nt0seKdBw9lQiuzWt50pTIqZOdldI577WevzHCkjbpx8kpbAA4MojjNAf/nMnI0FAoQZvR/VlcTc2T6AP4guim2JSeK/3sZMPG+A6ARvnQjWzCx1DolIWcLI2GWy7f0vBaUfBBaDbRzZgA",
-  "cor": "#7C644D"
+  "lqip": "data:image/webp;base64,UklGRiYBAABXRUJQVlA4IBoBAAAwBwCdASoYACQAPu1srVCppiQiqqgBMB2JQBahIfiCJr+WB//LOTi1bW5lQKlW4AefVGgTc45UEOE936zc2441KwAA/vMby3JAkfkMIgC8ULRNEzfZR4nhvhsTJDFtGZP9+Zf0XBwRm1hoZdutLg/M55KLfKLgZrk5g5zh/uD3SafTO5a06vticCkEQN0XY+kGhWPr8LqR+Q+4OUM5q+RbIZZ4wsLH70be77G9RC3kCdfzp3pCOJlPyqJKjFI6AK7FxbJJ/j9bfNu/XqDjQsAyRQBNNM/nshp8Me7pR2OrOXqhOVw/RDng+Nnydxm1KD3CY+PgkHw2tchGzu5+gkqb2tfXPskaxUqI4ScYKj6XWOA+IrkI1FwDAAA=",
+  "cor": "#5A4E3C"
  },
  "mulher-58-conversa-sofa-tarde": {
   "origem": "_fotos/brutas/mulher-58-conversa-sofa-tarde.png",
-  "largura": 1536,
-  "altura": 1024,
+  "largura": 2496,
+  "altura": 1664,
   "webp": [
    480,
    960,
@@ -895,13 +899,13 @@
    1600
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAQBACdASoYABAAPu1krU6ppaSiMAgBMB2JZACdAGlgRSGOJlh/dFXZAAD+/EkwHuQDQ7aS22ZV6pWfgeg1KN9WDxK/I6IUGybFm45oRaQ9nl/HL36d/+kop3FGPiJR6Zdd9V2pu0867J4AAAA=",
-  "cor": "#492F23"
+  "lqip": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZACdMoACa6MIg9zztptxXTgA/vFtNFQIJElY5s9V7feauH74TgIU8VG26qiPQZlA4zmCjsV2vMwIc4LBxGuT6W8b2bh4B9OK2CG2dTUfWU1lSV9tLmS9wVFw+yo2qiOQHJOHzvcU32R81f7R3CD0Raytrmd5FDvIPXzwgAA=",
+  "cor": "#614735"
  },
  "mulher-56-cha-varanda-manha-vertical": {
   "origem": "_fotos/brutas/mulher-56-cha-varanda-manha-vertical.png",
-  "largura": 1024,
-  "altura": 1536,
+  "largura": 1109,
+  "altura": 1664,
   "webp": [
    480,
    960
@@ -911,13 +915,13 @@
    960
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAACwBQCdASoYACQAPu1irE2ppaSiMBqqqTAdiWIAsswWePry8hb67ZYiXIHYQd3qV9ESQbSHOAAA/sJllRNpMhOQQHJJGh5mkmZY7MX9qxFp9mgXcy7fopyVILLXlph0C0dCnu1U4ueDMAyYgeJKCaFfBWw9Ex5IoAqNxfBfm6AOiMufAw+E+DFghiee3ba3JdeL/kYTvIqn3YK1jajxgrUAoGxi1SQA",
-  "cor": "#4D3825"
+  "lqip": "data:image/webp;base64,UklGRh4BAABXRUJQVlA4IBIBAADQBgCdASoYACQAPu1orFCppaQiqqgBMB2JYgCuT48OTRp2z8VdLNXOOFNhG9j1SOhJu1/9beRBJPPQxwrVUmAA/uej2S1TIeLGpApLcV6wWkByKGi66daCytc5mGtJ6PMeVocrIvBdbJo2VzVGAFvyhhksE0HS+9/PBf+p/V5ipzr4G2TJ64hbJsOwGtkjSVREaB+f4mbwm0xVZLPOy+IqSUpaFviH4JC2Dgbx2+ogCqfsRdmZpA/amZEzPaWDC+hGYGNjX9SSi37rTD/KPJcyLQXwWxbXLzm0rO+olvMrHwmYmT6QlWulptV84UQ/XcrCEnjG3I/h+wwopO2gh/1w6LEryQk4M95KG8TB26jeEAAA",
+  "cor": "#726247"
  },
  "mulher-45-cafe-cozinha-oculos-vertical": {
   "origem": "_fotos/brutas/mulher-45-cafe-cozinha-oculos-vertical.png",
-  "largura": 1024,
-  "altura": 1536,
+  "largura": 1109,
+  "altura": 1664,
   "webp": [
    480,
    960
@@ -927,13 +931,13 @@
    960
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRqgAAABXRUJQVlA4IJwAAADwBQCdASoYACQAPulgqU2pJaQiKq35IB0JQBcVAs24uMrEl/PFQCWKSf19bveyRiVN1IWn4v7boAD+wO2i/FQ/hS+dsWDEn2Hq0fap5PL0kAY3bWl8Hu8SXEGXMpp0cMgwCGrkLghZYY+2Ckd/liPrb2PKoW4m5dHAAn2VaqSxfm3HrfxzdhNsdu9ZGuzD7J9yHQQeEDRR6DW4mgA=",
-  "cor": "#553E2F"
+  "lqip": "data:image/webp;base64,UklGRgoBAABXRUJQVlA4IP4AAABwBgCdASoYACQAPu1wrVKppiQipWsxMB2JQBfPd8iR8ZVsKBiCPXBSQuMtVc/BZmga7tRNVqz2Gf9wKpAA/vaG3gsfaoa1vYQx8IBmSuOFFQoerZdRxhbcFmjqH7D6Pr3B6ONZ6X/yWj7b8Infs4VZgapiozMo/hcPkHG79IZJzYXQ2BmFtod44DLmPCBDtkNOlTjZBKSQSJQ3WotWuZzBFLG6Bk3mHQEKbTjlVY7GkEHNiRzE03ZQewEIRR33SkWbf5ZgHRkVqFdOvKyb292gs/PZvViUbQlRIVRnSXoj3UOJ8NnY5gFpD8vr4lPnzPaRN9FXLOkMRutZJCIAAA==",
+  "cor": "#6C5845"
  },
  "mulher-56-cha-varanda-manha": {
   "origem": "_fotos/brutas/mulher-56-cha-varanda-manha.png",
-  "largura": 1536,
-  "altura": 1024,
+  "largura": 2496,
+  "altura": 1664,
   "webp": [
    480,
    960,
@@ -945,13 +949,13 @@
    1600
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAADwAwCdASoYABAAPu1iqk2ppaQiMAgBMB2JYgCdAGlgBNzjrKFYCOewAP773ph/Iq08IYK3RReviEZiPons8vIXMftvOZ1BteECswsZKHtaTsi3YKrUC5c3P9ba8zVKpyarTmOCmTJIk82XjXB6MwAXT1UAAA==",
-  "cor": "#564029"
+  "lqip": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAADwAwCdASoYABAAPu1iqk2ppaQiMAgBMB2JYgCw7Gl6rgU+0Sag5DoAAP7+Svdfm/1oZQcu2zYYVYru52JeB9+FRP0utO3+xTtz4AS3aTUD5b1sheFmmXHBRXCI2/c4CilJOF9mMYwOO0tmAlIPb4T0PL3eGsgen7e5e1CAAAA=",
+  "cor": "#504632"
  },
  "mulher-45-cafe-cozinha-oculos": {
   "origem": "_fotos/brutas/mulher-45-cafe-cozinha-oculos.png",
-  "largura": 1536,
-  "altura": 1024,
+  "largura": 2496,
+  "altura": 1664,
   "webp": [
    480,
    960,
@@ -963,13 +967,13 @@
    1600
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAABQBACdASoYABAAPu1kqU2ppaQiMAgBMB2JZACdMoAKRqcHPu7lsj909aWAAP78q9yNT8gcXanVO42NeT8X3veWhArF0YvvggsNoJOi6zUkNldkywx/8XhZov65cBUECtJIwYGOql09DF5geWzL+oDs2AAAAA==",
-  "cor": "#513828"
+  "lqip": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQBACdASoYABAAPu1kq04ppaQiMAgBMB2JZQC7AGlw+/zC+vX/NZzEDgD+/hZ9hvnxSV8N8YLgDyoP+/EFthAGZRz4lIGmp1xV3HbRT84B1+rrAgDB75XORf/3N66/b3J1uPuxOlHIMQAA",
+  "cor": "#44372B"
  },
  "cha-maos-poltrona-tarde": {
   "origem": "_fotos/brutas/cha-maos-poltrona-tarde.png",
-  "largura": 1536,
-  "altura": 1024,
+  "largura": 2496,
+  "altura": 1664,
   "webp": [
    480,
    960,
@@ -981,13 +985,13 @@
    1600
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAAAQBACdASoYABAAPu1krU2ppaSiMAgBMB2JQBWABDvfgxu1UKEV4G/kAAD+8MjVketP49MdpaSxxifeWHJhbY0frg1izFENUrm1Mft6r9xbbwQm/n34PQJm6oXIJ+Vak+0EGtsNx7E4bDGnsznqANckFJYIYAsj1AAAAA==",
-  "cor": "#533926"
+  "lqip": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAAAQBACdASoYABAAPu1krU6ppaSiMAgBMB2JQBdmUABM144A0/kquZOHgAD+8rNBDXZwpC2WEA4iItPPqNWzdXVMeYbp3VyAxhKbWYWdC5fR/ksdxvtcCVz0Ks5jaWdriEZ+wE9qS8gDe/GBvAW8nkIuF/bdfEguXwmafrs+tXgxUTZjr2j5aX+47gAAAA==",
+  "cor": "#5F4D3C"
  },
  "homem-44-tenis-banco-parque-vertical": {
   "origem": "_fotos/brutas/homem-44-tenis-banco-parque-vertical.png",
-  "largura": 1024,
-  "altura": 1536,
+  "largura": 1109,
+  "altura": 1664,
   "webp": [
    480,
    960
@@ -997,13 +1001,13 @@
    960
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAADwBACdASoYACQAPu1orVEppaQiqrgKATAdiUAXqwC0qfM87wpUEZnkA0+zZGllsQQAzgFwqmZ6fjZ9AxkaW5pQivkIKqatx7qWUjcHIPvlag/cXVVPLCdve2t++33fwmqc/ALWLycz+yhxDpbM96D/u2nHrMq288YMvMYnxpKcBoOMfJHjEhz548fy024Bf5PLkWdiyDaFmCVew/ZUvfiMAAAAAA==",
-  "cor": "#423225"
+  "lqip": "data:image/webp;base64,UklGRjgBAABXRUJQVlA4ICwBAABwBwCdASoYACQAPu1kqlCppSOiqrgMATAdiWQAwrNGw0Db+CzXf+dnRaSE6Ia41dUZ7EMaUzIvUdPjWelPLNo7TE2AAAD+3PxKhJp7bpUDuCE+KDJREu0VpBDP82g+eAdZP53FgwSU9SLdZfFhhHbgByq5XAcrKLtcLNI+r5RboCoTN9jbctvEIusrVoOhcpM0vfCq4Rgae7U8S2mN4f+Vy6MQa+wJci/img4xnTbqZZ0hsWp4tpYVgzeE+RdJTulTqANVh9qZrh0vFz3tz1KCwv9/Oy4TWLqerzgJ2inUKBEYUgAQlHiO7g9pTwDZBbx26BjzggG+nteOV0a1E5iQEAGP9+yV9IkqTbk3v5xjVGvi1T8+1USlI8bqWoQCB8pvcm+BX2bAKKjAAAA=",
+  "cor": "#6E5F4B"
  },
  "homem-44-tenis-banco-parque": {
   "origem": "_fotos/brutas/homem-44-tenis-banco-parque.png",
-  "largura": 1536,
-  "altura": 1024,
+  "largura": 2496,
+  "altura": 1664,
   "webp": [
    480,
    960,
@@ -1015,13 +1019,13 @@
    1600
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAACQBACdASoYABAAPu1krU2ppaSiMAgBMB2JagCdMoADS2O6U/KAZdzxjWqm+WAA/vKp53c9Z80qNWrNOHJq0K7wZaxbwD4tcVjnKmPtzdswlNxy9/Ebb88zRabwggs/thvmZEdHaJ0ldEYNfm04SO2XJICXATiyyxm01bXOIJNkcRXkXPRvct45aqnR83+ckAA=",
-  "cor": "#644A30"
+  "lqip": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAADQAwCdASoYABAAPu1iqk2ppaQiMAgBMB2JQACiAEJ/s2P6iSDQlpQA/vQypzq9gF5UEOS2nFVIdROAwun2ZdpJEv3DzT18DQN51Vfccdv58s3vg4ZYXPqwGZukd5ls1e2GI6dmjYYSGAhO1mLPc2VBWz6UhK1AxBl34ZqfjomSsgAA",
+  "cor": "#40392E"
  },
  "mulher-62-varanda-manha": {
   "origem": "_fotos/brutas/mulher-62-varanda-manha.png",
-  "largura": 1536,
-  "altura": 1024,
+  "largura": 2496,
+  "altura": 1664,
   "webp": [
    480,
    960,
@@ -1033,13 +1037,13 @@
    1600
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JaACdL1ABvMcIPdDWd082O6wA/gCHCqiDH0ItnpWpTMWS6elGAtfV2JjzyIEHozyJo4nLD/6jahbuvp+ui93Ov9Wfp8lvKj0tx1IbNYPx44X4Ehf03vh+ObAFUTPxLJ7xewaOKYSNJKXQAAA=",
-  "cor": "#675037"
+  "lqip": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAACQAwCdASoYABAALrV2u12jqampiYC0SgCdAELYKzLUEr7Mz7zIAP75F/BYpXy9GU/JhGsbjWhhBDyVi9wS8Or9HRGYAQydG9pTzdxmHhV7tHChD6cYUPy6NDJCOLWDq50FuVyu9keNzU+O1mFa10YKf5jErePYOwk1wAAA",
+  "cor": "#544D3F"
  },
  "homem-50-caminhada-parque-manha-vertical": {
   "origem": "_fotos/brutas/homem-50-caminhada-parque-manha-vertical.png",
-  "largura": 1024,
-  "altura": 1536,
+  "largura": 1109,
+  "altura": 1664,
   "webp": [
    480,
    960
@@ -1049,13 +1053,13 @@
    960
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRvwAAABXRUJQVlA4IPAAAABwBgCdASoYACQAPu1uq1IppiOipWzJMB2JZAC7M5iOj4kB9QKHWVxFPJr81I7VUbpSvkSXzQLoxrO+IiwA/s9bRea4qD93MY8+i5tIEOHpXHIHJuwE+asKJJ7rqZKm1U7puHpUjajRIa7pP8dZEKDHkC6afrOUwJYmRC8InbqrDWSeOaW87+d1m0Cs4tfzxZj/k8cO/uGw+u45OFMvkEj43gbdnCKqtAuRJs+fuJpHgrU90l6+6HxLiRmPIqb9JTz2su5YRfeIS+vsYhGKsxtHlwYgFmZVtAZQaTHyM5qCKIyWTjUFlU1Eq18xdZ8AAAA=",
-  "cor": "#5D4937"
+  "lqip": "data:image/webp;base64,UklGRtQAAABXRUJQVlA4IMgAAACQBgCdASoYACQAPu1oqk6ppiOiMBVaqTAdiUAXnAD+8kWN/kJs6HInT+55bw+mwjQUwZSZrAss36wdfQrgAP7p0RVspyH+m5GSmkSgD4HgW7Zb1M5//16TKeTjzzQ13i34Pv3r3aGd4yFrlzd/mn2bOB9MmSLqynOST0GpZHEaQVk6pOrL8VLbsQTyxmSrAv1Av0kEiR+7KrPj0ny4R61s48RVsOU4HJfFPToumoCOoT5Vaz+5CwuVjOEtpYV7S758Lq9YbwAAAA==",
+  "cor": "#575246"
  },
  "mulher-38-videochamada-casa-vertical": {
   "origem": "_fotos/brutas/mulher-38-videochamada-casa-vertical.png",
-  "largura": 1024,
-  "altura": 1536,
+  "largura": 1109,
+  "altura": 1664,
   "webp": [
    480,
    960
@@ -1065,7 +1069,61 @@
    960
   ],
   "gerada_por_ia": true,
-  "lqip": "data:image/webp;base64,UklGRuQAAABXRUJQVlA4INgAAABwBgCdASoYACQAPu1srlCppiQiqqgBMB2JZACdABV1QceA3TBU0NflXp2WXM2okTrDn/9amEb+7Dla+gAA/qZPqTmHZ7gDK/gZ7U3JS/l1hLRpeaoxKaWg+PtZuqJp9wtpG7bQnbpSkCUQr75yIyIATyhIP/p4fPxqEqng99wMBVvLZ6VWa911ohfrhzXhZtiW4ppJPt3zs7/8e4wMdkZrM5Zg1ahoXP0j855QuWZI2FLJSZsFi2THGvKGrcjplukSvA9RL2n4rd8q15JH7dVK8AVNSeH+QAA=",
-  "cor": "#573E2D"
+  "lqip": "data:image/webp;base64,UklGRhgBAABXRUJQVlA4IAwBAABQBwCdASoYACQAPu1wrlGppqQiqrgIATAdiWIApy9fyrUneqac2qO1aL1Y3IbgT3Ovo9I1ATETRhgjAMkSOtcOWr+AAP6FMtZvV7BqV5lx8046ZlFdQL13rDEE77jCfHyjAbjnBgY7/0454YC8EyfpAKXraMJWxR3Y6HYlUYDTwx/+Wfp933Go+AuDIdDNGP5ykG147AZXR063N5NDWYEd1sGj7kJJpm5NAIzp/P+At/HgrpUSX+o6L3GRg/EMT9gy6Wk+r+scXKzV94Q8/OgkiDEYazrS6TrSGst7zgyfsTsnfLH9h8a96Ar5hyupGAjxP3lmtBH2AvpQeEIdleMjhfZv3v2SPaKREgAA",
+  "cor": "#5D3E29"
+ },
+ "homem-60-cafe-varanda": {
+  "origem": "_fotos/brutas/homem-60-cafe-varanda.png",
+  "largura": 2496,
+  "altura": 1664,
+  "webp": [
+   480,
+   960,
+   1600
+  ],
+  "avif": [
+   480,
+   960,
+   1600
+  ],
+  "gerada_por_ia": true,
+  "lqip": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAADwAwCdASoYABAAPu1kq04ppaQiMAgBMB2JQAALfXquuyMRcmaDGtIAAP70KblYKzhyvlYIdA9nutImcQSinpG02pl68Fj+l84qhYPcQksF35nv8Wt0FCOWBhI4tGe8KcUnOBXzvIuGy8lYVWCqQEiLJ10uOVkvJc/lHNJ0y02MrMJhtDGgAA==",
+  "cor": "#484232"
+ },
+ "mulher-39-coque-terraco": {
+  "origem": "_fotos/brutas/mulher-39-coque-terraco.png",
+  "largura": 2496,
+  "altura": 1664,
+  "webp": [
+   480,
+   960,
+   1600
+  ],
+  "avif": [
+   480,
+   960,
+   1600
+  ],
+  "gerada_por_ia": true,
+  "lqip": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYgCsAGlpRuJuWiy0FRwchw6uAAD+/iWEGN0lg+7UZvi+333/r3zx6nlf6rlcE6mYw84Ffu8qvpnprue5+zu2ql+VysO6GZbgOU0p3I/IiekvvAgH9haCs7IauIXmCTs18REkKCi8Ozy0NMbE2wS+ht1K71fuKsEHunLmXCiATdDdpWvaaJKoAAA=",
+  "cor": "#564535"
+ },
+ "mulher-45-bicicleta-parque": {
+  "origem": "_fotos/brutas/mulher-45-bicicleta-parque.png",
+  "largura": 2496,
+  "altura": 1664,
+  "webp": [
+   480,
+   960,
+   1600
+  ],
+  "avif": [
+   480,
+   960,
+   1600
+  ],
+  "gerada_por_ia": true,
+  "lqip": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAACwAwCdASoYABAAPu1iqU2ppaQiMAgBMB2JQBadA8WU3XdU9pGvZgD+8N8K1mYSjvgJP056as6d5ywYbF/v1LHXRZ9FexTmIFkBK0uAjJci4Qlj9Vy/ZhzeeYWkgmlJ99nrKDQ9FjuhvSIIAqqboPqNC49Yq8OltWuZjXCk9vHGmxuUxCyLjdBl8jq5IqPaPGxtZ8AA",
+  "cor": "#4A4132"
  }
 }

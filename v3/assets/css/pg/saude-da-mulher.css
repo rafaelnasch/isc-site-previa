@@ -4,10 +4,10 @@
 :where(.pg-saude-da-mulher) .abertura--linha{ --midia-x:34%; }
 :where(.pg-saude-da-mulher) .abertura-midia{ --foco:62% 40%; }
 :where(.pg-saude-da-mulher) .abertura-midia :is(img,video){ --origem:62% 40%; }
-@media (max-width:820px){ :where(.pg-saude-da-mulher) .abertura-midia{ --foco:50% 26%; } }
+@media (max-width:820px){ :where(.pg-saude-da-mulher) .abertura-midia{ --foco:50% 60%; } }
 :where(.pg-saude-da-mulher) .v3-micro{ margin-top:var(--e-4); font:400 var(--t-legenda)/1.5 var(--texto); color:var(--f-apoio); }
 :where(.pg-saude-da-mulher) .mul-pausa{ --foco:50% 38%; }
-:where(.pg-saude-da-mulher) .mul-convite .convite-midia{ --foco:60% 18%; }
+:where(.pg-saude-da-mulher) .mul-convite .convite-midia{ --foco:56% 32%; }
 :where(.pg-saude-da-mulher) .abertura-medico img{ object-position:50% 18%; }
 
 

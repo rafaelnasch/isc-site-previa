@@ -95,3 +95,6 @@
 .js :where(.pg-consulta) .processo.processo--vivo .processo-passo:not(.ativo) p:not(.rotulo){ color:var(--f-texto); }
 .js :where(.pg-consulta) .processo.processo--vivo .processo-passo:not(.ativo) .rotulo{ color:var(--f-rotulo); }
 :where(.pg-consulta) .processo-passo.ativo{ border-top-color:var(--marrom); }
+
+
+@media (max-width:820px){ :where(.pg-consulta) .abertura-midia img{ --foco:82% 40%; } }
