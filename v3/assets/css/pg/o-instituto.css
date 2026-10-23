@@ -205,7 +205,7 @@
 @media (min-width:1025px){ :where(.pg-o-instituto) .mapa-areas{ grid-template-columns:repeat(3,minmax(0,1fr)); } }
 
 
-:where(.pg-o-instituto) .abertura-midia{ top:var(--topo-h); }
+:where(.pg-o-instituto) .abertura-midia{ top:var(--topo-h); --midia-top:var(--topo-h); }
 
 
 :where(.pg-o-instituto) .depoimentos.sec--marfim .depo blockquote p em{ color:var(--f-enfase); }
@@ -220,3 +220,20 @@
 :where(.pg-o-instituto) .quem-somos-gavetas .simbolo-nota{ margin-top:var(--e-6); }
 :where(.pg-o-instituto) .quem-somos-gavetas .gaveta-corpo{ max-width:none; }
 @media (min-width:1025px){ :where(.pg-o-instituto) .quem-somos-gavetas .valores-v2{ grid-template-columns:repeat(5,minmax(0,1fr)); } }
+
+@media (min-width:1181px){ :where(.pg-o-instituto) .abertura-midia :is(img,video){ transform:scale(1.25); transform-origin:80% 38%; } }
+
+
+@media (min-width:1025px){
+  :where(.pg-o-instituto) .convite-final--form{ --faixa:min(34vw,640px); padding-top:calc(var(--faixa) * .82); align-items:flex-start; }
+  :where(.pg-o-instituto) .convite-final--form .convite-midia{ inset:0 0 auto 0; height:var(--faixa); overflow:hidden; }
+  :where(.pg-o-instituto) .convite-final--form .convite-midia img{ --foco:50% 20%; }
+  :where(.pg-o-instituto) .convite-final--form .convite-midia::after{ background:linear-gradient(to top,rgba(18,19,20,1) 0%,rgba(18,19,20,.86) 16%,rgba(18,19,20,.3) 42%,rgba(18,19,20,.12) 70%,rgba(18,19,20,.3) 100%),linear-gradient(to right,rgba(18,19,20,.5) 0%,rgba(18,19,20,0) 40%); }
+}
+
+@media (min-width:1025px) and (max-width:1299px){
+  :where(.pg-o-instituto) .convite-final--form{ --faixa:max(400px,34vw); }
+  :where(.pg-o-instituto) .convite-final--form .convite-midia img{ --foco:50% 12%; }
+}
+
+@media (min-width:1025px) and (max-width:1279px){ :where(.pg-o-instituto) .quem-somos-gavetas .valores-v2{ grid-template-columns:repeat(3,minmax(0,1fr)); } }

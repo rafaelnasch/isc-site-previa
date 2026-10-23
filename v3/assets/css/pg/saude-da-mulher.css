@@ -4,7 +4,7 @@
 :where(.pg-saude-da-mulher) .abertura--linha{ --midia-x:34%; }
 :where(.pg-saude-da-mulher) .abertura-midia{ --foco:62% 40%; }
 :where(.pg-saude-da-mulher) .abertura-midia :is(img,video){ --origem:62% 40%; }
-@media (max-width:820px){ :where(.pg-saude-da-mulher) .abertura-midia{ --foco:50% 60%; } }
+@media (max-width:820px){ :where(.pg-saude-da-mulher) .abertura-midia{ --foco:50% 50%; } }   
 :where(.pg-saude-da-mulher) .v3-micro{ margin-top:var(--e-4); font:400 var(--t-legenda)/1.5 var(--texto); color:var(--f-apoio); }
 :where(.pg-saude-da-mulher) .mul-pausa{ --foco:50% 38%; }
 :where(.pg-saude-da-mulher) .mul-convite .convite-midia{ --foco:56% 32%; }
@@ -85,8 +85,16 @@
 }
 
 @media (max-width:820px){
-  :where(.pg-saude-da-mulher) .abertura .abertura-midia{ top:var(--topo-h); }
+  :where(.pg-saude-da-mulher) .abertura .abertura-midia{ top:var(--topo-h); --midia-top:var(--topo-h); }
   
   :where(.pg-saude-da-mulher) .abertura .abertura-midia::before{ display:none; }
   :where(.pg-saude-da-mulher) .abertura .abertura-midia::after{ background:linear-gradient(to top,var(--preto) 0%,rgba(18,19,20,.88) 26%,rgba(18,19,20,.4) 56%,rgba(18,19,20,0) 84%); }
+}
+
+
+@media (min-width:1025px){
+  :where(.pg-saude-da-mulher) .convite-final{ --faixa:min(32vw,620px); padding-top:calc(var(--faixa) * .82); align-items:flex-start; }
+  :where(.pg-saude-da-mulher) .convite-midia{ inset:0 0 auto 0; height:var(--faixa); overflow:hidden; }
+  :where(.pg-saude-da-mulher) .convite-midia img{ --foco:60% 18%; }
+  :where(.pg-saude-da-mulher) .convite-midia::after{ background:linear-gradient(to top,rgba(18,19,20,1) 0%,rgba(18,19,20,.86) 16%,rgba(18,19,20,.3) 42%,rgba(18,19,20,.12) 70%,rgba(18,19,20,.3) 100%),linear-gradient(to right,rgba(18,19,20,.5) 0%,rgba(18,19,20,0) 40%); }
 }

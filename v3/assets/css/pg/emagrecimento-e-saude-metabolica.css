@@ -156,3 +156,13 @@
 }
 
 :where(.pg-emagrecimento-e-saude-metabolica) .processo-base .btn{ flex:none; }
+
+@media (max-width:820px){ .pg-emagrecimento-e-saude-metabolica .abertura .abertura-midia{ --foco:50% 26%; } }
+
+
+@media (min-width:1025px){
+  :where(.pg-emagrecimento-e-saude-metabolica) .convite-final{ --faixa:clamp(360px,30vw,560px); padding-top:calc(var(--faixa) * .82); align-items:flex-start; }
+  :where(.pg-emagrecimento-e-saude-metabolica) .convite-midia{ inset:0 0 auto 0; height:var(--faixa); overflow:hidden; }
+  :where(.pg-emagrecimento-e-saude-metabolica) .convite-midia img{ --foco:50% 20%; }
+  :where(.pg-emagrecimento-e-saude-metabolica) .convite-midia::after{ background:linear-gradient(to top,rgba(18,19,20,1) 0%,rgba(18,19,20,.86) 16%,rgba(18,19,20,.3) 42%,rgba(18,19,20,.12) 70%,rgba(18,19,20,.3) 100%),linear-gradient(to right,rgba(18,19,20,.5) 0%,rgba(18,19,20,0) 40%); }
+}

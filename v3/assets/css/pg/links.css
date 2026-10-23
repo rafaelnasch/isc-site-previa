@@ -53,3 +53,5 @@
 
 
 :where(.pg-links) .lk-fotos:focus-visible{ outline:2px solid var(--marrom); outline-offset:4px; }
+
+@media (min-width:821px) and (max-width:1024px){ :where(.pg-links) .lk-midia img{ --foco:50% 2%; } }

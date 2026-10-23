@@ -63,3 +63,5 @@
 
 :where(.pg-obrigado) .barra-cta{ display:none!important; }
 @media (max-width:1024px){ body:where(.pg-obrigado){ padding-bottom:0; } }
+
+@media (min-width:641px) and (max-width:820px){ :where(.pg-obrigado) .ob-fio{ display:none; } }

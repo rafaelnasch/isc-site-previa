@@ -7,6 +7,11 @@
   linear-gradient(to bottom,rgba(18,19,20,.55) 0%,rgba(18,19,20,0) calc(var(--topo-h) + 120px)),
   linear-gradient(to top,rgba(18,19,20,.92) 0%,rgba(18,19,20,0) 55%); }
 :where(.pg-contato) .ct-abre .abertura-titulo{ max-width:13ch; }
+
+@media (max-width:820px){ :where(.pg-contato) .ct-abre .abertura-midia::after{ background:
+  linear-gradient(to bottom,rgba(18,19,20,.6) 0%,rgba(18,19,20,0) calc(var(--topo-h) + 64px)),
+  linear-gradient(to right,rgba(18,19,20,.55) 0%,rgba(18,19,20,0) 70%),
+  linear-gradient(to top,var(--preto) 0%,rgba(18,19,20,.9) 24%,rgba(18,19,20,.45) 56%,rgba(18,19,20,0) 86%); } }
 :where(.pg-contato) .ct-cartoes{ display:grid; grid-template-columns:repeat(2,minmax(0,360px)); gap:var(--calha); margin-top:var(--e-8); }
 :where(.pg-contato) .ct-cartoes li{ display:grid; gap:var(--e-2); padding:var(--e-5); background:rgba(18,19,20,.58); border:1px solid rgba(241,221,192,.2);
   -webkit-backdrop-filter:blur(10px); backdrop-filter:blur(10px); }
@@ -63,6 +68,7 @@
 
 
 :where(.pg-contato) .tela-foto picture img{ object-position:var(--foco,45% 30%); }
+@media (max-width:640px){ :where(.pg-contato) .tela-foto picture img{ object-position:25% 30%; } }   
 
 
 :where(.pg-contato) .ct-redes{ display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:var(--calha); }

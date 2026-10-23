@@ -116,3 +116,11 @@
 
 :where(.pg-acompanhamento-online) .revisao-medica--fim{ font-size:var(--t-legenda); line-height:1.55; color:var(--f-apoio); }
 :where(.pg-acompanhamento-online) .form-depois{ margin-top:var(--e-3); }
+
+
+@media (min-width:1025px){
+  :where(.pg-acompanhamento-online) .convite-final{ --faixa:min(32vw,620px); padding-top:calc(var(--faixa) * .82); align-items:flex-start; }
+  :where(.pg-acompanhamento-online) .convite-midia{ inset:0 0 auto 0; height:var(--faixa); overflow:hidden; }
+  :where(.pg-acompanhamento-online) .convite-midia img{ --foco:60% 18%; }
+  :where(.pg-acompanhamento-online) .convite-midia::after{ background:linear-gradient(to top,rgba(18,19,20,1) 0%,rgba(18,19,20,.86) 16%,rgba(18,19,20,.3) 42%,rgba(18,19,20,.12) 70%,rgba(18,19,20,.3) 100%),linear-gradient(to right,rgba(18,19,20,.5) 0%,rgba(18,19,20,0) 40%); }
+}

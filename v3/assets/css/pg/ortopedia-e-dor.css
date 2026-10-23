@@ -94,8 +94,22 @@
 :where(.pg-ortopedia-e-dor) .orto-antes{ margin-bottom:var(--e-6); font-size:var(--t-chamada); line-height:1.55; color:var(--f-texto); max-width:46em; }
 
 @media (max-width:820px){
-  :where(.pg-ortopedia-e-dor) .abertura .abertura-midia{ top:var(--topo-h); }
+  :where(.pg-ortopedia-e-dor) .abertura .abertura-midia{ top:var(--topo-h); --midia-top:var(--topo-h); }
   
   :where(.pg-ortopedia-e-dor) .abertura .abertura-midia::before{ display:none; }
   :where(.pg-ortopedia-e-dor) .abertura .abertura-midia::after{ background:linear-gradient(to top,var(--preto) 0%,rgba(18,19,20,.88) 26%,rgba(18,19,20,.4) 56%,rgba(18,19,20,0) 84%); }
+}
+
+@media (max-width:820px){
+  :where(.pg-ortopedia-e-dor) .abertura-midia{ --foco:50% 45%; }
+  :where(.pg-ortopedia-e-dor) .abertura .abertura-midia::after{ background:linear-gradient(to top,var(--preto) 0%,rgba(18,19,20,.88) 26%,rgba(18,19,20,.58) 50%,rgba(18,19,20,.3) 62%,rgba(18,19,20,0) 80%); }
+  :where(.pg-ortopedia-e-dor) .abertura :is(.hero-migalha,.rotulo){ text-shadow:0 1px 3px rgba(18,19,20,.9),0 0 14px rgba(18,19,20,.75); }
+}
+
+
+@media (min-width:1025px){
+  :where(.pg-ortopedia-e-dor) .orto-convite{ --faixa:min(34vw,640px); padding-top:calc(var(--faixa) * .82); align-items:flex-start; }
+  :where(.pg-ortopedia-e-dor) .orto-convite .convite-midia{ inset:0 0 auto 0; height:var(--faixa); overflow:hidden; }
+  :where(.pg-ortopedia-e-dor) .orto-convite .convite-midia img{ --foco:50% 20%; }
+  :where(.pg-ortopedia-e-dor) .orto-convite .convite-midia::after{ background:linear-gradient(to top,rgba(18,19,20,1) 0%,rgba(18,19,20,.86) 16%,rgba(18,19,20,.3) 42%,rgba(18,19,20,.12) 70%,rgba(18,19,20,.3) 100%),linear-gradient(to right,rgba(18,19,20,.5) 0%,rgba(18,19,20,0) 40%); }
 }

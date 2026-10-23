@@ -69,8 +69,15 @@
 }
 
 @media (max-width:820px){
-  :where(.pg-dermatologia) .abertura .abertura-midia{ top:var(--topo-h); }
+  :where(.pg-dermatologia) .abertura .abertura-midia{ top:var(--topo-h); --midia-top:var(--topo-h); }
   
   :where(.pg-dermatologia) .abertura .abertura-midia::before{ display:none; }
   :where(.pg-dermatologia) .abertura .abertura-midia::after{ background:linear-gradient(to top,var(--preto) 0%,rgba(18,19,20,.88) 26%,rgba(18,19,20,.4) 56%,rgba(18,19,20,0) 84%); }
+}
+
+@media (min-width:1025px){
+  :where(.pg-dermatologia) .convite-final{ --faixa:clamp(360px,30vw,560px); padding-top:calc(var(--faixa) * .82); align-items:flex-start; }
+  :where(.pg-dermatologia) .convite-midia{ inset:0 0 auto 0; height:var(--faixa); overflow:hidden; }
+  :where(.pg-dermatologia) .convite-midia img{ --foco:50% 64%; }
+  :where(.pg-dermatologia) .convite-midia::after{ background:linear-gradient(to top,rgba(18,19,20,1) 0%,rgba(18,19,20,.86) 16%,rgba(18,19,20,.3) 42%,rgba(18,19,20,.12) 70%,rgba(18,19,20,.3) 100%); }
 }

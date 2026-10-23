@@ -36,3 +36,16 @@
 :where(.pg-academy) .ac-form{ grid-column:7 / -1; box-shadow:0 40px 80px -40px rgba(0,0,0,.7); }
 @media (max-width:1024px){ :where(.pg-academy) .ac-convite .convite-texto,:where(.pg-academy) .ac-form{ grid-column:1 / -1; } }
 @media (max-width:640px){ :where(.pg-academy) .ac-form{ margin-inline:calc(var(--gut) * -1 + 8px); } }
+
+@media (min-width:821px){
+  :where(.pg-academy) .abertura-midia::after{ background:
+    linear-gradient(to right,var(--preto) 0%,rgba(18,19,20,.9) 18%,rgba(18,19,20,.84) 44%,rgba(18,19,20,.6) 58%,rgba(18,19,20,.2) 76%,rgba(18,19,20,.06) 100%),
+    linear-gradient(to bottom,rgba(18,19,20,.55) 0%,rgba(18,19,20,0) calc(var(--topo-h) + 120px)),
+    linear-gradient(to top,rgba(18,19,20,.85) 0%,rgba(18,19,20,0) 42%); }
+}
+
+
+@media (min-width:821px){
+  :where(.pg-academy) .abertura-midia picture{ filter:none; }   
+  :where(.pg-academy) .abertura-midia img{ filter:saturate(.92) sepia(.06) contrast(1.04); --escala:1.18; --origem:62% 58%; }
+}

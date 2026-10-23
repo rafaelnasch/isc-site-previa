@@ -91,4 +91,11 @@
 
 @media (max-width:1024px){ :where(.pg-agendar) .ag-midia img{ object-position:42% 2%; } }
 
-@media (max-width:1024px){ :where(.pg-agendar) .ag-midia{ top:var(--topo-h); height:calc(var(--ag-foto) - var(--topo-h)); } }
+@media (max-width:1024px){ :where(.pg-agendar) .ag-midia{ top:var(--topo-h); height:calc(var(--ag-foto) - var(--topo-h)); --midia-top:var(--topo-h); } }
+
+@media (min-width:1025px){
+  :where(.pg-agendar) .ag-midia picture{ bottom:auto; height:min(100%,100svh); -webkit-mask-image:linear-gradient(to bottom,#000 72%,transparent 100%); mask-image:linear-gradient(to bottom,#000 72%,transparent 100%); }
+  :where(.pg-agendar) .ag-midia picture img{ inset:0; height:100%; }
+  
+  :where(.pg-agendar) .ag-midia .selo-foto{ bottom:auto; top:calc(var(--topo-h) + 18px); right:var(--e-5); }
+}

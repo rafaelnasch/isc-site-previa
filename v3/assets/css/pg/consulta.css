@@ -97,4 +97,7 @@
 :where(.pg-consulta) .processo-passo.ativo{ border-top-color:var(--marrom); }
 
 
-@media (max-width:820px){ :where(.pg-consulta) .abertura-midia img{ --foco:82% 40%; } }
+
+@media (max-width:820px){ :where(.pg-consulta) .abertura-midia img{ --foco:82% 0%; } }
+
+@media (min-width:821px) and (max-width:1100px){ :where(.pg-consulta) .abertura-midia img{ --foco:85% 15%; } }

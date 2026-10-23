@@ -99,3 +99,14 @@
   :where(.pg-gluteo) .abertura-midia{ --foco:50% 4% !important; }
   :where(.pg-gluteo) .abertura-midia :is(img,video){ --origem:50% 4%; }
 }
+
+
+@media (max-width:599px){ .pg-gluteo .convite-midia :is(img,video){ object-position:50% 50%; } }
+
+
+@media (min-width:1025px){
+  :where(.pg-gluteo) .convite-final{ --faixa:clamp(360px,30vw,560px); padding-top:calc(var(--faixa) * .82); align-items:flex-start; }
+  :where(.pg-gluteo) .convite-midia{ inset:0 0 auto 0; height:var(--faixa); overflow:hidden; }
+  :where(.pg-gluteo) .convite-midia img{ --foco:80% 14%; }
+  :where(.pg-gluteo) .convite-midia::after{ background:linear-gradient(to top,rgba(18,19,20,1) 0%,rgba(18,19,20,.86) 16%,rgba(18,19,20,.3) 42%,rgba(18,19,20,.12) 70%,rgba(18,19,20,.3) 100%),linear-gradient(to right,rgba(18,19,20,.5) 0%,rgba(18,19,20,0) 40%); }
+}
